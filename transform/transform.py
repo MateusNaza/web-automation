@@ -13,4 +13,4 @@ def load_to_csv(json):
     # Adicionar a coluna de Rodada de volta
     df_expandido["Rodada"] = df_melted["Rodada"]
 
-    df_expandido.to_csv('tabela.csv')
+    df_expandido.to_csv('output/tabela.csv', sep='|')

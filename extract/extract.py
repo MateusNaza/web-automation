@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 import time
-from parser import parser
+from extract.parser import parser
 
 
 def extract_html(url):
