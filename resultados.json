@@ -1,0 +1,986 @@
+{
+    "12ª RODADA": [
+        {
+            "partida": "Vila Nova x América-MG",
+            "mandante": "VNO",
+            "placar_mandante": "0",
+            "visitante": "AME",
+            "placar_visitante": "3",
+            "data_hora": "2025-06-13T19:00"
+        },
+        {
+            "partida": "Paysandu x Botafogo-SP",
+            "mandante": "PAY",
+            "placar_mandante": "1",
+            "visitante": "BSP",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-13T21:35"
+        },
+        {
+            "partida": "CRB x Goiás",
+            "mandante": "CRB",
+            "placar_mandante": "2",
+            "visitante": "GOI",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-14T16:00"
+        },
+        {
+            "partida": "Athletico-PR x Remo",
+            "mandante": "CAP",
+            "placar_mandante": "2",
+            "visitante": "REM",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-14T18:30"
+        },
+        {
+            "partida": "Athletic Club x Operário-PR",
+            "mandante": "ATH",
+            "placar_mandante": "2",
+            "visitante": "OPE",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-14T20:30"
+        },
+        {
+            "partida": "Atlético-GO x Coritiba",
+            "mandante": "ACG",
+            "placar_mandante": "0",
+            "visitante": "CFC",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-15T16:00"
+        },
+        {
+            "partida": "Novorizontino x Cuiabá",
+            "mandante": "NOV",
+            "placar_mandante": "3",
+            "visitante": "CUI",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-15T16:00"
+        },
+        {
+            "partida": "Criciúma x Amazonas",
+            "mandante": "CRI",
+            "placar_mandante": "3",
+            "visitante": "AMA",
+            "placar_visitante": "2",
+            "data_hora": "2025-06-15T20:30"
+        },
+        {
+            "partida": "Chapecoense x Ferroviária",
+            "mandante": "CHA",
+            "placar_mandante": "2",
+            "visitante": "AFE",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-16T19:00"
+        },
+        {
+            "partida": "Volta Redonda x Avaí",
+            "mandante": "VRE",
+            "placar_mandante": "",
+            "visitante": "AVA",
+            "placar_visitante": "",
+            "data_hora": "2025-06-17T19:30"
+        }
+    ],
+    "11ª RODADA": [
+        {
+            "partida": "Botafogo-SP x Coritiba",
+            "mandante": "BSP",
+            "placar_mandante": "0",
+            "visitante": "CFC",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-05T18:00"
+        },
+        {
+            "partida": "Novorizontino x Chapecoense",
+            "mandante": "NOV",
+            "placar_mandante": "1",
+            "visitante": "CHA",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-06T19:00"
+        },
+        {
+            "partida": "Cuiabá x Paysandu",
+            "mandante": "CUI",
+            "placar_mandante": "1",
+            "visitante": "PAY",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-06T21:35"
+        },
+        {
+            "partida": "América-MG x Ferroviária",
+            "mandante": "AME",
+            "placar_mandante": "1",
+            "visitante": "AFE",
+            "placar_visitante": "2",
+            "data_hora": "2025-06-07T16:00"
+        },
+        {
+            "partida": "Avaí x CRB",
+            "mandante": "AVA",
+            "placar_mandante": "1",
+            "visitante": "CRB",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-07T20:30"
+        },
+        {
+            "partida": "Goiás x Volta Redonda",
+            "mandante": "GOI",
+            "placar_mandante": "2",
+            "visitante": "VRE",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-08T16:00"
+        },
+        {
+            "partida": "Athletico-PR x Atlético-GO",
+            "mandante": "CAP",
+            "placar_mandante": "0",
+            "visitante": "ACG",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-08T18:00"
+        },
+        {
+            "partida": "Remo x Operário-PR",
+            "mandante": "REM",
+            "placar_mandante": "2",
+            "visitante": "OPE",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-08T19:00"
+        },
+        {
+            "partida": "Criciúma x Vila Nova",
+            "mandante": "CRI",
+            "placar_mandante": "1",
+            "visitante": "VNO",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-09T19:00"
+        },
+        {
+            "partida": "Amazonas x Athletic Club",
+            "mandante": "AMA",
+            "placar_mandante": "1",
+            "visitante": "ATH",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-09T19:30"
+        }
+    ],
+    "10ª RODADA": [
+        {
+            "partida": "Ferroviária x Botafogo-SP",
+            "mandante": "AFE",
+            "placar_mandante": "1",
+            "visitante": "BSP",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-29T21:35"
+        },
+        {
+            "partida": "Vila Nova x Novorizontino",
+            "mandante": "VNO",
+            "placar_mandante": "0",
+            "visitante": "NOV",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-30T19:00"
+        },
+        {
+            "partida": "Coritiba x Avaí",
+            "mandante": "CFC",
+            "placar_mandante": "2",
+            "visitante": "AVA",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-31T16:00"
+        },
+        {
+            "partida": "Atlético-GO x Goiás",
+            "mandante": "ACG",
+            "placar_mandante": "1",
+            "visitante": "GOI",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-31T18:30"
+        },
+        {
+            "partida": "Athletic Club x Cuiabá",
+            "mandante": "ATH",
+            "placar_mandante": "0",
+            "visitante": "CUI",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-31T20:30"
+        },
+        {
+            "partida": "Operário-PR x Athletico-PR",
+            "mandante": "OPE",
+            "placar_mandante": "2",
+            "visitante": "CAP",
+            "placar_visitante": "2",
+            "data_hora": "2025-06-01T16:00"
+        },
+        {
+            "partida": "CRB x Remo",
+            "mandante": "CRB",
+            "placar_mandante": "2",
+            "visitante": "REM",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-01T18:00"
+        },
+        {
+            "partida": "Volta Redonda x América-MG",
+            "mandante": "VRE",
+            "placar_mandante": "1",
+            "visitante": "AME",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-01T20:30"
+        },
+        {
+            "partida": "Chapecoense x Amazonas",
+            "mandante": "CHA",
+            "placar_mandante": "4",
+            "visitante": "AMA",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-02T19:00"
+        },
+        {
+            "partida": "Paysandu x Criciúma",
+            "mandante": "PAY",
+            "placar_mandante": "0",
+            "visitante": "CRI",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-02T21:00"
+        }
+    ],
+    "9ª RODADA": [
+        {
+            "partida": "Goiás x Ferroviária",
+            "mandante": "GOI",
+            "placar_mandante": "2",
+            "visitante": "AFE",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-23T21:35"
+        },
+        {
+            "partida": "Athletico-PR x Athletic Club",
+            "mandante": "CAP",
+            "placar_mandante": "1",
+            "visitante": "ATH",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-24T16:00"
+        },
+        {
+            "partida": "Remo x Volta Redonda",
+            "mandante": "REM",
+            "placar_mandante": "1",
+            "visitante": "VRE",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-24T18:00"
+        },
+        {
+            "partida": "Avaí x Chapecoense",
+            "mandante": "AVA",
+            "placar_mandante": "2",
+            "visitante": "CHA",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-24T18:30"
+        },
+        {
+            "partida": "Novorizontino x Paysandu",
+            "mandante": "NOV",
+            "placar_mandante": "3",
+            "visitante": "PAY",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-25T16:00"
+        },
+        {
+            "partida": "Amazonas x Operário-PR",
+            "mandante": "AMA",
+            "placar_mandante": "2",
+            "visitante": "OPE",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-25T18:30"
+        },
+        {
+            "partida": "Criciúma x Coritiba",
+            "mandante": "CRI",
+            "placar_mandante": "0",
+            "visitante": "CFC",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-26T19:00"
+        },
+        {
+            "partida": "Botafogo-SP x CRB",
+            "mandante": "BSP",
+            "placar_mandante": "2",
+            "visitante": "CRB",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-26T20:00"
+        },
+        {
+            "partida": "Cuiabá x Vila Nova",
+            "mandante": "CUI",
+            "placar_mandante": "1",
+            "visitante": "VNO",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-26T21:00"
+        },
+        {
+            "partida": "América-MG x Atlético-GO",
+            "mandante": "AME",
+            "placar_mandante": "2",
+            "visitante": "ACG",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-27T19:30"
+        }
+    ],
+    "8ª RODADA": [
+        {
+            "partida": "Ferroviária x Avaí",
+            "mandante": "AFE",
+            "placar_mandante": "1",
+            "visitante": "AVA",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-15T21:35"
+        },
+        {
+            "partida": "Chapecoense x Cuiabá",
+            "mandante": "CHA",
+            "placar_mandante": "2",
+            "visitante": "CUI",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-16T19:00"
+        },
+        {
+            "partida": "Operário-PR x Botafogo-SP",
+            "mandante": "OPE",
+            "placar_mandante": "3",
+            "visitante": "BSP",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-17T16:00"
+        },
+        {
+            "partida": "Vila Nova x Athletico-PR",
+            "mandante": "VNO",
+            "placar_mandante": "2",
+            "visitante": "CAP",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-17T18:30"
+        },
+        {
+            "partida": "Athletic Club x Novorizontino",
+            "mandante": "ATH",
+            "placar_mandante": "0",
+            "visitante": "NOV",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-17T20:30"
+        },
+        {
+            "partida": "Atlético-GO x Remo",
+            "mandante": "ACG",
+            "placar_mandante": "1",
+            "visitante": "REM",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-18T16:00"
+        },
+        {
+            "partida": "CRB x Criciúma",
+            "mandante": "CRB",
+            "placar_mandante": "1",
+            "visitante": "CRI",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-18T16:00"
+        },
+        {
+            "partida": "Paysandu x Goiás",
+            "mandante": "PAY",
+            "placar_mandante": "0",
+            "visitante": "GOI",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-18T18:30"
+        },
+        {
+            "partida": "Volta Redonda x Amazonas",
+            "mandante": "VRE",
+            "placar_mandante": "1",
+            "visitante": "AMA",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-19T19:00"
+        },
+        {
+            "partida": "Coritiba x América-MG",
+            "mandante": "CFC",
+            "placar_mandante": "1",
+            "visitante": "AME",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-19T21:35"
+        }
+    ],
+    "7ª RODADA": [
+        {
+            "partida": "Athletico-PR x Chapecoense",
+            "mandante": "CAP",
+            "placar_mandante": "1",
+            "visitante": "CHA",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-08T21:35"
+        },
+        {
+            "partida": "Avaí x Atlético-GO",
+            "mandante": "AVA",
+            "placar_mandante": "0",
+            "visitante": "ACG",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-10T16:00"
+        },
+        {
+            "partida": "Goiás x Coritiba",
+            "mandante": "GOI",
+            "placar_mandante": "1",
+            "visitante": "CFC",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-10T18:30"
+        },
+        {
+            "partida": "Criciúma x Volta Redonda",
+            "mandante": "CRI",
+            "placar_mandante": "0",
+            "visitante": "VRE",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-11T16:00"
+        },
+        {
+            "partida": "Cuiabá x Operário-PR",
+            "mandante": "CUI",
+            "placar_mandante": "2",
+            "visitante": "OPE",
+            "placar_visitante": "3",
+            "data_hora": "2025-05-11T18:30"
+        },
+        {
+            "partida": "Novorizontino x Ferroviária",
+            "mandante": "NOV",
+            "placar_mandante": "2",
+            "visitante": "AFE",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-11T18:30"
+        },
+        {
+            "partida": "Botafogo-SP x Athletic Club",
+            "mandante": "BSP",
+            "placar_mandante": "0",
+            "visitante": "ATH",
+            "placar_visitante": "3",
+            "data_hora": "2025-05-12T19:00"
+        },
+        {
+            "partida": "Amazonas x CRB",
+            "mandante": "AMA",
+            "placar_mandante": "1",
+            "visitante": "CRB",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-12T21:00"
+        },
+        {
+            "partida": "Remo x Vila Nova",
+            "mandante": "REM",
+            "placar_mandante": "2",
+            "visitante": "VNO",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-14T19:00"
+        },
+        {
+            "partida": "América-MG x Paysandu",
+            "mandante": "AME",
+            "placar_mandante": "2",
+            "visitante": "PAY",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-14T19:30"
+        }
+    ],
+    "6ª RODADA": [
+        {
+            "partida": "Ferroviária x Coritiba",
+            "mandante": "AFE",
+            "placar_mandante": "2",
+            "visitante": "CFC",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-02T21:35"
+        },
+        {
+            "partida": "Remo x Amazonas",
+            "mandante": "REM",
+            "placar_mandante": "1",
+            "visitante": "AMA",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-03T16:00"
+        },
+        {
+            "partida": "Volta Redonda x Paysandu",
+            "mandante": "VRE",
+            "placar_mandante": "1",
+            "visitante": "PAY",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-03T20:30"
+        },
+        {
+            "partida": "Atlético-GO x Novorizontino",
+            "mandante": "ACG",
+            "placar_mandante": "1",
+            "visitante": "NOV",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-04T16:00"
+        },
+        {
+            "partida": "Athletico-PR x Botafogo-SP",
+            "mandante": "CAP",
+            "placar_mandante": "1",
+            "visitante": "BSP",
+            "placar_visitante": "4",
+            "data_hora": "2025-05-04T18:30"
+        },
+        {
+            "partida": "Chapecoense x Criciúma",
+            "mandante": "CHA",
+            "placar_mandante": "2",
+            "visitante": "CRI",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-04T18:30"
+        },
+        {
+            "partida": "Operário-PR x América-MG",
+            "mandante": "OPE",
+            "placar_mandante": "1",
+            "visitante": "AME",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-04T20:30"
+        },
+        {
+            "partida": "Goiás x Avaí",
+            "mandante": "GOI",
+            "placar_mandante": "2",
+            "visitante": "AVA",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-05T19:00"
+        },
+        {
+            "partida": "CRB x Cuiabá",
+            "mandante": "CRB",
+            "placar_mandante": "1",
+            "visitante": "CUI",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-06T19:30"
+        },
+        {
+            "partida": "Athletic Club x Vila Nova",
+            "mandante": "ATH",
+            "placar_mandante": "0",
+            "visitante": "VNO",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-06T21:30"
+        }
+    ],
+    "5ª RODADA": [
+        {
+            "partida": "Novorizontino x Athletico-PR",
+            "mandante": "NOV",
+            "placar_mandante": "2",
+            "visitante": "CAP",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-24T21:35"
+        },
+        {
+            "partida": "Criciúma x Remo",
+            "mandante": "CRI",
+            "placar_mandante": "1",
+            "visitante": "REM",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-25T19:00"
+        },
+        {
+            "partida": "Vila Nova x Chapecoense",
+            "mandante": "VNO",
+            "placar_mandante": "1",
+            "visitante": "CHA",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-25T21:00"
+        },
+        {
+            "partida": "Coritiba x Operário-PR",
+            "mandante": "CFC",
+            "placar_mandante": "2",
+            "visitante": "OPE",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-26T16:00"
+        },
+        {
+            "partida": "Avaí x América-MG",
+            "mandante": "AVA",
+            "placar_mandante": "3",
+            "visitante": "AME",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-26T20:00"
+        },
+        {
+            "partida": "Athletic Club x Volta Redonda",
+            "mandante": "ATH",
+            "placar_mandante": "2",
+            "visitante": "VRE",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-27T16:00"
+        },
+        {
+            "partida": "Amazonas x Atlético-GO",
+            "mandante": "AMA",
+            "placar_mandante": "1",
+            "visitante": "ACG",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-27T16:30"
+        },
+        {
+            "partida": "Paysandu x CRB",
+            "mandante": "PAY",
+            "placar_mandante": "1",
+            "visitante": "CRB",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-27T17:00"
+        },
+        {
+            "partida": "Cuiabá x Ferroviária",
+            "mandante": "CUI",
+            "placar_mandante": "1",
+            "visitante": "AFE",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-27T19:00"
+        },
+        {
+            "partida": "Botafogo-SP x Goiás",
+            "mandante": "BSP",
+            "placar_mandante": "0",
+            "visitante": "GOI",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-28T19:30"
+        }
+    ],
+    "4ª RODADA": [
+        {
+            "partida": "Operário-PR x Paysandu",
+            "mandante": "OPE",
+            "placar_mandante": "0",
+            "visitante": "PAY",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-19T16:00"
+        },
+        {
+            "partida": "Vila Nova x Botafogo-SP",
+            "mandante": "VNO",
+            "placar_mandante": "2",
+            "visitante": "BSP",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-20T16:00"
+        },
+        {
+            "partida": "Chapecoense x Athletic Club",
+            "mandante": "CHA",
+            "placar_mandante": "1",
+            "visitante": "ATH",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-20T18:00"
+        },
+        {
+            "partida": "Athletico-PR x CRB",
+            "mandante": "CAP",
+            "placar_mandante": "2",
+            "visitante": "CRB",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-20T19:00"
+        },
+        {
+            "partida": "América-MG x Goiás",
+            "mandante": "AME",
+            "placar_mandante": "1",
+            "visitante": "GOI",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-20T20:00"
+        },
+        {
+            "partida": "Amazonas x Avaí",
+            "mandante": "AMA",
+            "placar_mandante": "0",
+            "visitante": "AVA",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-21T18:00"
+        },
+        {
+            "partida": "Novorizontino x Criciúma",
+            "mandante": "NOV",
+            "placar_mandante": "1",
+            "visitante": "CRI",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-21T19:00"
+        },
+        {
+            "partida": "Remo x Coritiba",
+            "mandante": "REM",
+            "placar_mandante": "1",
+            "visitante": "CFC",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-21T21:30"
+        },
+        {
+            "partida": "Atlético-GO x Cuiabá",
+            "mandante": "ACG",
+            "placar_mandante": "1",
+            "visitante": "CUI",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-22T19:30"
+        },
+        {
+            "partida": "Volta Redonda x Ferroviária",
+            "mandante": "VRE",
+            "placar_mandante": "0",
+            "visitante": "AFE",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-22T20:00"
+        }
+    ],
+    "3ª RODADA": [
+        {
+            "partida": "Cuiabá x Athletico-PR",
+            "mandante": "CUI",
+            "placar_mandante": "2",
+            "visitante": "CAP",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-15T19:00"
+        },
+        {
+            "partida": "Paysandu x Chapecoense",
+            "mandante": "PAY",
+            "placar_mandante": "0",
+            "visitante": "CHA",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-16T20:00"
+        },
+        {
+            "partida": "Avaí x Operário-PR",
+            "mandante": "AVA",
+            "placar_mandante": "1",
+            "visitante": "OPE",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-16T20:00"
+        },
+        {
+            "partida": "Coritiba x Novorizontino",
+            "mandante": "CFC",
+            "placar_mandante": "0",
+            "visitante": "NOV",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-16T21:00"
+        },
+        {
+            "partida": "Goiás x Vila Nova",
+            "mandante": "GOI",
+            "placar_mandante": "2",
+            "visitante": "VNO",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-17T19:00"
+        },
+        {
+            "partida": "Criciúma x Athletic Club",
+            "mandante": "CRI",
+            "placar_mandante": "4",
+            "visitante": "ATH",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-17T20:00"
+        },
+        {
+            "partida": "CRB x Volta Redonda",
+            "mandante": "CRB",
+            "placar_mandante": "1",
+            "visitante": "VRE",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-17T20:00"
+        },
+        {
+            "partida": "Botafogo-SP x Remo",
+            "mandante": "BSP",
+            "placar_mandante": "2",
+            "visitante": "REM",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-17T20:00"
+        },
+        {
+            "partida": "Ferroviária x Atlético-GO",
+            "mandante": "AFE",
+            "placar_mandante": "2",
+            "visitante": "ACG",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-17T21:00"
+        },
+        {
+            "partida": "América-MG x Amazonas",
+            "mandante": "AME",
+            "placar_mandante": "3",
+            "visitante": "AMA",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-17T21:35"
+        }
+    ],
+    "2ª RODADA": [
+        {
+            "partida": "Athletico-PR x Criciúma",
+            "mandante": "CAP",
+            "placar_mandante": "2",
+            "visitante": "CRI",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-10T19:00"
+        },
+        {
+            "partida": "Cuiabá x Avaí",
+            "mandante": "CUI",
+            "placar_mandante": "2",
+            "visitante": "AVA",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-10T21:30"
+        },
+        {
+            "partida": "Chapecoense x Coritiba",
+            "mandante": "CHA",
+            "placar_mandante": "1",
+            "visitante": "CFC",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-12T16:00"
+        },
+        {
+            "partida": "Vila Nova x Paysandu",
+            "mandante": "VNO",
+            "placar_mandante": "1",
+            "visitante": "PAY",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-12T18:00"
+        },
+        {
+            "partida": "Amazonas x Ferroviária",
+            "mandante": "AMA",
+            "placar_mandante": "0",
+            "visitante": "AFE",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-12T19:00"
+        },
+        {
+            "partida": "Novorizontino x Volta Redonda",
+            "mandante": "NOV",
+            "placar_mandante": "1",
+            "visitante": "VRE",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-12T19:00"
+        },
+        {
+            "partida": "Operário-PR x Goiás",
+            "mandante": "OPE",
+            "placar_mandante": "1",
+            "visitante": "GOI",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-12T20:00"
+        },
+        {
+            "partida": "Remo x América-MG",
+            "mandante": "REM",
+            "placar_mandante": "2",
+            "visitante": "AME",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-13T16:00"
+        },
+        {
+            "partida": "Athletic Club x CRB",
+            "mandante": "ATH",
+            "placar_mandante": "1",
+            "visitante": "CRB",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-13T16:00"
+        },
+        {
+            "partida": "Botafogo-SP x Atlético-GO",
+            "mandante": "BSP",
+            "placar_mandante": "1",
+            "visitante": "ACG",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-13T19:00"
+        }
+    ],
+    "1ª RODADA": [
+        {
+            "partida": "Goiás x Amazonas",
+            "mandante": "GOI",
+            "placar_mandante": "1",
+            "visitante": "AMA",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-04T19:00"
+        },
+        {
+            "partida": "Paysandu x Athletico-PR",
+            "mandante": "PAY",
+            "placar_mandante": "1",
+            "visitante": "CAP",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-04T21:00"
+        },
+        {
+            "partida": "Criciúma x Operário-PR",
+            "mandante": "CRI",
+            "placar_mandante": "1",
+            "visitante": "OPE",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-04T21:00"
+        },
+        {
+            "partida": "Coritiba x Vila Nova",
+            "mandante": "CFC",
+            "placar_mandante": "1",
+            "visitante": "VNO",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-05T16:00"
+        },
+        {
+            "partida": "CRB x Chapecoense",
+            "mandante": "CRB",
+            "placar_mandante": "1",
+            "visitante": "CHA",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-05T16:00"
+        },
+        {
+            "partida": "América-MG x Botafogo-SP",
+            "mandante": "AME",
+            "placar_mandante": "1",
+            "visitante": "BSP",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-05T18:30"
+        },
+        {
+            "partida": "Ferroviária x Remo",
+            "mandante": "AFE",
+            "placar_mandante": "1",
+            "visitante": "REM",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-06T19:00"
+        },
+        {
+            "partida": "Volta Redonda x Cuiabá",
+            "mandante": "VRE",
+            "placar_mandante": "0",
+            "visitante": "CUI",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-06T19:00"
+        },
+        {
+            "partida": "Avaí x Novorizontino",
+            "mandante": "AVA",
+            "placar_mandante": "1",
+            "visitante": "NOV",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-06T20:00"
+        },
+        {
+            "partida": "Atlético-GO x Athletic Club",
+            "mandante": "ACG",
+            "placar_mandante": "4",
+            "visitante": "ATH",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-07T19:00"
+        }
+    ]
+}

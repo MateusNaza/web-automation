@@ -1,0 +1,131 @@
+,partida,mandante,placar_mandante,visitante,placar_visitante,Rodada
+0,Flamengo x São Paulo,FLA,,SAO,,13ª RODADA
+1,Vasco x Botafogo,VAS,,BOT,,13ª RODADA
+2,Corinthians x Bragantino,COR,,RBB,,13ª RODADA
+3,Santos x Palmeiras,SAN,,PAL,,13ª RODADA
+4,Mirassol x Fluminense,MIR,,FLU,,13ª RODADA
+5,Cruzeiro x Grêmio,CRU,,GRE,,13ª RODADA
+6,Internacional x Vitória,INT,,VIT,,13ª RODADA
+7,Bahia x Atlético-MG,BAH,,CAM,,13ª RODADA
+8,Fortaleza x Ceará,FOR,,CEA,,13ª RODADA
+9,Juventude x Sport,JUV,,SPT,,13ª RODADA
+10,Bragantino x Bahia,RBB,0,BAH,3,12ª RODADA
+11,Vitória x Cruzeiro,VIT,0,CRU,0,12ª RODADA
+12,Fortaleza x Santos,FOR,2,SAN,3,12ª RODADA
+13,Grêmio x Corinthians,GRE,1,COR,1,12ª RODADA
+14,São Paulo x Vasco,SAO,1,VAS,3,12ª RODADA
+15,Atlético-MG x Internacional,CAM,2,INT,0,12ª RODADA
+16,Fluminense x Ceará,FLU,,CEA,,12ª RODADA
+17,Botafogo x Mirassol,BOT,,MIR,,12ª RODADA
+18,Palmeiras x Juventude,PAL,,JUV,,12ª RODADA
+19,Sport x Flamengo,SPT,,FLA,,12ª RODADA
+20,Bahia x São Paulo,BAH,2,SAO,1,11ª RODADA
+21,Vasco x Bragantino,VAS,0,RBB,2,11ª RODADA
+22,Mirassol x Sport,MIR,1,SPT,0,11ª RODADA
+23,Santos x Botafogo,SAN,0,BOT,1,11ª RODADA
+24,Juventude x Grêmio,JUV,0,GRE,2,11ª RODADA
+25,Flamengo x Fortaleza,FLA,5,FOR,0,11ª RODADA
+26,Corinthians x Vitória,COR,0,VIT,0,11ª RODADA
+27,Ceará x Atlético-MG,CEA,0,CAM,1,11ª RODADA
+28,Cruzeiro x Palmeiras,CRU,2,PAL,1,11ª RODADA
+29,Internacional x Fluminense,INT,0,FLU,2,11ª RODADA
+30,Fluminense x Vasco,FLU,2,VAS,1,10ª RODADA
+31,São Paulo x Mirassol,SAO,0,MIR,2,10ª RODADA
+32,Atlético-MG x Corinthians,CAM,0,COR,0,10ª RODADA
+33,Grêmio x Bahia,GRE,1,BAH,0,10ª RODADA
+34,Palmeiras x Flamengo,PAL,0,FLA,2,10ª RODADA
+35,Sport x Internacional,SPT,1,INT,1,10ª RODADA
+36,Vitória x Santos,VIT,0,SAN,1,10ª RODADA
+37,Fortaleza x Cruzeiro,FOR,0,CRU,2,10ª RODADA
+38,Bragantino x Juventude,RBB,1,JUV,0,10ª RODADA
+39,Botafogo x Ceará,BOT,3,CEA,2,10ª RODADA
+40,Ceará x Sport,CEA,2,SPT,0,9ª RODADA
+41,Vasco x Fortaleza,VAS,3,FOR,0,9ª RODADA
+42,São Paulo x Grêmio,SAO,2,GRE,1,9ª RODADA
+43,Corinthians x Santos,COR,1,SAN,0,9ª RODADA
+44,Bahia x Vitória,BAH,2,VIT,1,9ª RODADA
+45,Juventude x Fluminense,JUV,1,FLU,1,9ª RODADA
+46,Flamengo x Botafogo,FLA,0,BOT,0,9ª RODADA
+47,Bragantino x Palmeiras,RBB,1,PAL,2,9ª RODADA
+48,Cruzeiro x Atlético-MG,CRU,0,CAM,0,9ª RODADA
+49,Internacional x Mirassol,INT,1,MIR,1,9ª RODADA
+50,Fortaleza x Juventude,FOR,5,JUV,0,8ª RODADA
+51,Mirassol x Corinthians,MIR,2,COR,1,8ª RODADA
+52,Grêmio x Bragantino,GRE,1,RBB,1,8ª RODADA
+53,Vitória x Vasco,VIT,2,VAS,1,8ª RODADA
+54,Flamengo x Bahia,FLA,1,BAH,0,8ª RODADA
+55,Sport x Cruzeiro,SPT,0,CRU,4,8ª RODADA
+56,Palmeiras x São Paulo,PAL,1,SAO,0,8ª RODADA
+57,Atlético-MG x Fluminense,CAM,3,FLU,2,8ª RODADA
+58,Botafogo x Internacional,BOT,4,INT,0,8ª RODADA
+59,Santos x Ceará,SAN,0,CEA,0,8ª RODADA
+60,São Paulo x Fortaleza,SAO,0,FOR,0,7ª RODADA
+61,Fluminense x Sport,FLU,2,SPT,1,7ª RODADA
+62,Corinthians x Internacional,COR,4,INT,2,7ª RODADA
+63,Ceará x Vitória,CEA,1,VIT,0,7ª RODADA
+64,Bahia x Botafogo,BAH,1,BOT,0,7ª RODADA
+65,Vasco x Palmeiras,VAS,0,PAL,1,7ª RODADA
+66,Grêmio x Santos,GRE,1,SAN,0,7ª RODADA
+67,Cruzeiro x Flamengo,CRU,2,FLA,1,7ª RODADA
+68,Bragantino x Mirassol,RBB,1,MIR,0,7ª RODADA
+69,Juventude x Atlético-MG,JUV,0,CAM,1,7ª RODADA
+70,Internacional x Juventude,INT,3,JUV,1,6ª RODADA
+71,Mirassol x Atlético-MG,MIR,2,CAM,2,6ª RODADA
+72,Ceará x São Paulo,CEA,1,SAO,1,6ª RODADA
+73,Sport x Fortaleza,SPT,0,FOR,0,6ª RODADA
+74,Botafogo x Fluminense,BOT,2,FLU,0,6ª RODADA
+75,Flamengo x Corinthians,FLA,4,COR,0,6ª RODADA
+76,Palmeiras x Bahia,PAL,0,BAH,1,6ª RODADA
+77,Cruzeiro x Vasco,CRU,1,VAS,0,6ª RODADA
+78,Vitória x Grêmio,VIT,1,GRE,1,6ª RODADA
+79,Santos x Bragantino,SAN,1,RBB,2,6ª RODADA
+80,Corinthians x Sport,COR,2,SPT,1,5ª RODADA
+81,Vasco x Flamengo,VAS,0,FLA,0,5ª RODADA
+82,Grêmio x Internacional,GRE,1,INT,1,5ª RODADA
+83,Juventude x Mirassol,JUV,2,MIR,2,5ª RODADA
+84,São Paulo x Santos,SAO,2,SAN,1,5ª RODADA
+85,Atlético-MG x Botafogo,CAM,1,BOT,0,5ª RODADA
+86,Fluminense x Vitória,FLU,1,VIT,1,5ª RODADA
+87,Fortaleza x Palmeiras,FOR,1,PAL,2,5ª RODADA
+88,Bragantino x Cruzeiro,RBB,1,CRU,0,5ª RODADA
+89,Bahia x Ceará,BAH,1,CEA,0,5ª RODADA
+90,Ceará x Vasco,CEA,2,VAS,1,4ª RODADA
+91,Botafogo x São Paulo,BOT,2,SAO,2,4ª RODADA
+92,Mirassol x Grêmio,MIR,4,GRE,1,4ª RODADA
+93,Sport x Bragantino,SPT,0,RBB,1,4ª RODADA
+94,Corinthians x Fluminense,COR,0,FLU,2,4ª RODADA
+95,Internacional x Palmeiras,INT,0,PAL,1,4ª RODADA
+96,Flamengo x Juventude,FLA,6,JUV,0,4ª RODADA
+97,Santos x Atlético-MG,SAN,2,CAM,0,4ª RODADA
+98,Vitória x Fortaleza,VIT,2,FOR,1,4ª RODADA
+99,Cruzeiro x Bahia,CRU,3,BAH,0,4ª RODADA
+100,Bragantino x Botafogo,RBB,1,BOT,0,3ª RODADA
+101,Juventude x Ceará,JUV,2,CEA,1,3ª RODADA
+102,Palmeiras x Corinthians,PAL,2,COR,0,3ª RODADA
+103,Vasco x Sport,VAS,3,SPT,1,3ª RODADA
+104,Bahia x Mirassol,BAH,1,MIR,1,3ª RODADA
+105,São Paulo x Cruzeiro,SAO,1,CRU,1,3ª RODADA
+106,Grêmio x Flamengo,GRE,0,FLA,2,3ª RODADA
+107,Fluminense x Santos,FLU,1,SAN,0,3ª RODADA
+108,Fortaleza x Internacional,FOR,0,INT,0,3ª RODADA
+109,Atlético-MG x Vitória,CAM,2,VIT,2,3ª RODADA
+110,Corinthians x Vasco,COR,3,VAS,0,2ª RODADA
+111,Ceará x Grêmio,CEA,2,GRE,0,2ª RODADA
+112,Botafogo x Juventude,BOT,2,JUV,0,2ª RODADA
+113,Fluminense x Bragantino,FLU,2,RBB,1,2ª RODADA
+114,Atlético-MG x São Paulo,CAM,0,SAO,0,2ª RODADA
+115,Mirassol x Fortaleza,MIR,1,FOR,1,2ª RODADA
+116,Internacional x Cruzeiro,INT,3,CRU,0,2ª RODADA
+117,Vitória x Flamengo,VIT,1,FLA,2,2ª RODADA
+118,Sport x Palmeiras,SPT,1,PAL,2,2ª RODADA
+119,Santos x Bahia,SAN,2,BAH,2,2ª RODADA
+120,São Paulo x Sport,SAO,0,SPT,0,1ª RODADA
+121,Cruzeiro x Mirassol,CRU,2,MIR,1,1ª RODADA
+122,Grêmio x Atlético-MG,GRE,2,CAM,1,1ª RODADA
+123,Fortaleza x Fluminense,FOR,2,FLU,0,1ª RODADA
+124,Juventude x Vitória,JUV,2,VIT,0,1ª RODADA
+125,Flamengo x Internacional,FLA,1,INT,1,1ª RODADA
+126,Palmeiras x Botafogo,PAL,0,BOT,0,1ª RODADA
+127,Vasco x Santos,VAS,2,SAN,1,1ª RODADA
+128,Bahia x Corinthians,BAH,1,COR,1,1ª RODADA
+129,Bragantino x Ceará,RBB,2,CEA,2,1ª RODADA
