@@ -21,6 +21,10 @@ source .venv/bin/activate
 # Instala as bibliotecas necessárias
 pip install -r requirements.txt
 
+# instala o playwright e suas dependencias (utilizado para navegar pelo site e efetuar o scrapping de dados)
+playwright install
+playwright install-deps
+
 # Roda o script principal
 python main.py
 ```

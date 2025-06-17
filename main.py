@@ -16,7 +16,6 @@ json_file_name = 'output/resultados.json'
 with open(json_file_name, 'w', encoding='utf-8') as f:
     json.dump(json_data, f, ensure_ascii=False, indent=4)
 
-print('Arquivo JSON criado com sucesso!')
+print(f'\nArquivo JSON disponível em {json_file_name}!')
 
-# Transforma e carrega o arquivo em CSV
-load_to_csv(json_file_name)
+print(load_to_csv(json_file_name))
