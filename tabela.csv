@@ -1,131 +1,121 @@
-,partida,mandante,placar_mandante,visitante,placar_visitante,Rodada
-0,Flamengo x São Paulo,FLA,,SAO,,13ª RODADA
-1,Vasco x Botafogo,VAS,,BOT,,13ª RODADA
-2,Corinthians x Bragantino,COR,,RBB,,13ª RODADA
-3,Santos x Palmeiras,SAN,,PAL,,13ª RODADA
-4,Mirassol x Fluminense,MIR,,FLU,,13ª RODADA
-5,Cruzeiro x Grêmio,CRU,,GRE,,13ª RODADA
-6,Internacional x Vitória,INT,,VIT,,13ª RODADA
-7,Bahia x Atlético-MG,BAH,,CAM,,13ª RODADA
-8,Fortaleza x Ceará,FOR,,CEA,,13ª RODADA
-9,Juventude x Sport,JUV,,SPT,,13ª RODADA
-10,Bragantino x Bahia,RBB,0,BAH,3,12ª RODADA
-11,Vitória x Cruzeiro,VIT,0,CRU,0,12ª RODADA
-12,Fortaleza x Santos,FOR,2,SAN,3,12ª RODADA
-13,Grêmio x Corinthians,GRE,1,COR,1,12ª RODADA
-14,São Paulo x Vasco,SAO,1,VAS,3,12ª RODADA
-15,Atlético-MG x Internacional,CAM,2,INT,0,12ª RODADA
-16,Fluminense x Ceará,FLU,,CEA,,12ª RODADA
-17,Botafogo x Mirassol,BOT,,MIR,,12ª RODADA
-18,Palmeiras x Juventude,PAL,,JUV,,12ª RODADA
-19,Sport x Flamengo,SPT,,FLA,,12ª RODADA
-20,Bahia x São Paulo,BAH,2,SAO,1,11ª RODADA
-21,Vasco x Bragantino,VAS,0,RBB,2,11ª RODADA
-22,Mirassol x Sport,MIR,1,SPT,0,11ª RODADA
-23,Santos x Botafogo,SAN,0,BOT,1,11ª RODADA
-24,Juventude x Grêmio,JUV,0,GRE,2,11ª RODADA
-25,Flamengo x Fortaleza,FLA,5,FOR,0,11ª RODADA
-26,Corinthians x Vitória,COR,0,VIT,0,11ª RODADA
-27,Ceará x Atlético-MG,CEA,0,CAM,1,11ª RODADA
-28,Cruzeiro x Palmeiras,CRU,2,PAL,1,11ª RODADA
-29,Internacional x Fluminense,INT,0,FLU,2,11ª RODADA
-30,Fluminense x Vasco,FLU,2,VAS,1,10ª RODADA
-31,São Paulo x Mirassol,SAO,0,MIR,2,10ª RODADA
-32,Atlético-MG x Corinthians,CAM,0,COR,0,10ª RODADA
-33,Grêmio x Bahia,GRE,1,BAH,0,10ª RODADA
-34,Palmeiras x Flamengo,PAL,0,FLA,2,10ª RODADA
-35,Sport x Internacional,SPT,1,INT,1,10ª RODADA
-36,Vitória x Santos,VIT,0,SAN,1,10ª RODADA
-37,Fortaleza x Cruzeiro,FOR,0,CRU,2,10ª RODADA
-38,Bragantino x Juventude,RBB,1,JUV,0,10ª RODADA
-39,Botafogo x Ceará,BOT,3,CEA,2,10ª RODADA
-40,Ceará x Sport,CEA,2,SPT,0,9ª RODADA
-41,Vasco x Fortaleza,VAS,3,FOR,0,9ª RODADA
-42,São Paulo x Grêmio,SAO,2,GRE,1,9ª RODADA
-43,Corinthians x Santos,COR,1,SAN,0,9ª RODADA
-44,Bahia x Vitória,BAH,2,VIT,1,9ª RODADA
-45,Juventude x Fluminense,JUV,1,FLU,1,9ª RODADA
-46,Flamengo x Botafogo,FLA,0,BOT,0,9ª RODADA
-47,Bragantino x Palmeiras,RBB,1,PAL,2,9ª RODADA
-48,Cruzeiro x Atlético-MG,CRU,0,CAM,0,9ª RODADA
-49,Internacional x Mirassol,INT,1,MIR,1,9ª RODADA
-50,Fortaleza x Juventude,FOR,5,JUV,0,8ª RODADA
-51,Mirassol x Corinthians,MIR,2,COR,1,8ª RODADA
-52,Grêmio x Bragantino,GRE,1,RBB,1,8ª RODADA
-53,Vitória x Vasco,VIT,2,VAS,1,8ª RODADA
-54,Flamengo x Bahia,FLA,1,BAH,0,8ª RODADA
-55,Sport x Cruzeiro,SPT,0,CRU,4,8ª RODADA
-56,Palmeiras x São Paulo,PAL,1,SAO,0,8ª RODADA
-57,Atlético-MG x Fluminense,CAM,3,FLU,2,8ª RODADA
-58,Botafogo x Internacional,BOT,4,INT,0,8ª RODADA
-59,Santos x Ceará,SAN,0,CEA,0,8ª RODADA
-60,São Paulo x Fortaleza,SAO,0,FOR,0,7ª RODADA
-61,Fluminense x Sport,FLU,2,SPT,1,7ª RODADA
-62,Corinthians x Internacional,COR,4,INT,2,7ª RODADA
-63,Ceará x Vitória,CEA,1,VIT,0,7ª RODADA
-64,Bahia x Botafogo,BAH,1,BOT,0,7ª RODADA
-65,Vasco x Palmeiras,VAS,0,PAL,1,7ª RODADA
-66,Grêmio x Santos,GRE,1,SAN,0,7ª RODADA
-67,Cruzeiro x Flamengo,CRU,2,FLA,1,7ª RODADA
-68,Bragantino x Mirassol,RBB,1,MIR,0,7ª RODADA
-69,Juventude x Atlético-MG,JUV,0,CAM,1,7ª RODADA
-70,Internacional x Juventude,INT,3,JUV,1,6ª RODADA
-71,Mirassol x Atlético-MG,MIR,2,CAM,2,6ª RODADA
-72,Ceará x São Paulo,CEA,1,SAO,1,6ª RODADA
-73,Sport x Fortaleza,SPT,0,FOR,0,6ª RODADA
-74,Botafogo x Fluminense,BOT,2,FLU,0,6ª RODADA
-75,Flamengo x Corinthians,FLA,4,COR,0,6ª RODADA
-76,Palmeiras x Bahia,PAL,0,BAH,1,6ª RODADA
-77,Cruzeiro x Vasco,CRU,1,VAS,0,6ª RODADA
-78,Vitória x Grêmio,VIT,1,GRE,1,6ª RODADA
-79,Santos x Bragantino,SAN,1,RBB,2,6ª RODADA
-80,Corinthians x Sport,COR,2,SPT,1,5ª RODADA
-81,Vasco x Flamengo,VAS,0,FLA,0,5ª RODADA
-82,Grêmio x Internacional,GRE,1,INT,1,5ª RODADA
-83,Juventude x Mirassol,JUV,2,MIR,2,5ª RODADA
-84,São Paulo x Santos,SAO,2,SAN,1,5ª RODADA
-85,Atlético-MG x Botafogo,CAM,1,BOT,0,5ª RODADA
-86,Fluminense x Vitória,FLU,1,VIT,1,5ª RODADA
-87,Fortaleza x Palmeiras,FOR,1,PAL,2,5ª RODADA
-88,Bragantino x Cruzeiro,RBB,1,CRU,0,5ª RODADA
-89,Bahia x Ceará,BAH,1,CEA,0,5ª RODADA
-90,Ceará x Vasco,CEA,2,VAS,1,4ª RODADA
-91,Botafogo x São Paulo,BOT,2,SAO,2,4ª RODADA
-92,Mirassol x Grêmio,MIR,4,GRE,1,4ª RODADA
-93,Sport x Bragantino,SPT,0,RBB,1,4ª RODADA
-94,Corinthians x Fluminense,COR,0,FLU,2,4ª RODADA
-95,Internacional x Palmeiras,INT,0,PAL,1,4ª RODADA
-96,Flamengo x Juventude,FLA,6,JUV,0,4ª RODADA
-97,Santos x Atlético-MG,SAN,2,CAM,0,4ª RODADA
-98,Vitória x Fortaleza,VIT,2,FOR,1,4ª RODADA
-99,Cruzeiro x Bahia,CRU,3,BAH,0,4ª RODADA
-100,Bragantino x Botafogo,RBB,1,BOT,0,3ª RODADA
-101,Juventude x Ceará,JUV,2,CEA,1,3ª RODADA
-102,Palmeiras x Corinthians,PAL,2,COR,0,3ª RODADA
-103,Vasco x Sport,VAS,3,SPT,1,3ª RODADA
-104,Bahia x Mirassol,BAH,1,MIR,1,3ª RODADA
-105,São Paulo x Cruzeiro,SAO,1,CRU,1,3ª RODADA
-106,Grêmio x Flamengo,GRE,0,FLA,2,3ª RODADA
-107,Fluminense x Santos,FLU,1,SAN,0,3ª RODADA
-108,Fortaleza x Internacional,FOR,0,INT,0,3ª RODADA
-109,Atlético-MG x Vitória,CAM,2,VIT,2,3ª RODADA
-110,Corinthians x Vasco,COR,3,VAS,0,2ª RODADA
-111,Ceará x Grêmio,CEA,2,GRE,0,2ª RODADA
-112,Botafogo x Juventude,BOT,2,JUV,0,2ª RODADA
-113,Fluminense x Bragantino,FLU,2,RBB,1,2ª RODADA
-114,Atlético-MG x São Paulo,CAM,0,SAO,0,2ª RODADA
-115,Mirassol x Fortaleza,MIR,1,FOR,1,2ª RODADA
-116,Internacional x Cruzeiro,INT,3,CRU,0,2ª RODADA
-117,Vitória x Flamengo,VIT,1,FLA,2,2ª RODADA
-118,Sport x Palmeiras,SPT,1,PAL,2,2ª RODADA
-119,Santos x Bahia,SAN,2,BAH,2,2ª RODADA
-120,São Paulo x Sport,SAO,0,SPT,0,1ª RODADA
-121,Cruzeiro x Mirassol,CRU,2,MIR,1,1ª RODADA
-122,Grêmio x Atlético-MG,GRE,2,CAM,1,1ª RODADA
-123,Fortaleza x Fluminense,FOR,2,FLU,0,1ª RODADA
-124,Juventude x Vitória,JUV,2,VIT,0,1ª RODADA
-125,Flamengo x Internacional,FLA,1,INT,1,1ª RODADA
-126,Palmeiras x Botafogo,PAL,0,BOT,0,1ª RODADA
-127,Vasco x Santos,VAS,2,SAN,1,1ª RODADA
-128,Bahia x Corinthians,BAH,1,COR,1,1ª RODADA
-129,Bragantino x Ceará,RBB,2,CEA,2,1ª RODADA
+,partida,mandante,placar_mandante,visitante,placar_visitante,data_hora,Rodada
+0,Vila Nova x América-MG,VNO,0,AME,3,2025-06-13T19:00,12ª RODADA
+1,Paysandu x Botafogo-SP,PAY,1,BSP,0,2025-06-13T21:35,12ª RODADA
+2,CRB x Goiás,CRB,2,GOI,0,2025-06-14T16:00,12ª RODADA
+3,Athletico-PR x Remo,CAP,2,REM,1,2025-06-14T18:30,12ª RODADA
+4,Athletic Club x Operário-PR,ATH,2,OPE,1,2025-06-14T20:30,12ª RODADA
+5,Atlético-GO x Coritiba,ACG,0,CFC,0,2025-06-15T16:00,12ª RODADA
+6,Novorizontino x Cuiabá,NOV,3,CUI,0,2025-06-15T16:00,12ª RODADA
+7,Criciúma x Amazonas,CRI,3,AMA,2,2025-06-15T20:30,12ª RODADA
+8,Chapecoense x Ferroviária,CHA,2,AFE,1,2025-06-16T19:00,12ª RODADA
+9,Volta Redonda x Avaí,VRE,,AVA,,2025-06-17T19:30,12ª RODADA
+10,Botafogo-SP x Coritiba,BSP,0,CFC,0,2025-06-05T18:00,11ª RODADA
+11,Novorizontino x Chapecoense,NOV,1,CHA,0,2025-06-06T19:00,11ª RODADA
+12,Cuiabá x Paysandu,CUI,1,PAY,0,2025-06-06T21:35,11ª RODADA
+13,América-MG x Ferroviária,AME,1,AFE,2,2025-06-07T16:00,11ª RODADA
+14,Avaí x CRB,AVA,1,CRB,0,2025-06-07T20:30,11ª RODADA
+15,Goiás x Volta Redonda,GOI,2,VRE,0,2025-06-08T16:00,11ª RODADA
+16,Athletico-PR x Atlético-GO,CAP,0,ACG,1,2025-06-08T18:00,11ª RODADA
+17,Remo x Operário-PR,REM,2,OPE,1,2025-06-08T19:00,11ª RODADA
+18,Criciúma x Vila Nova,CRI,1,VNO,0,2025-06-09T19:00,11ª RODADA
+19,Amazonas x Athletic Club,AMA,1,ATH,0,2025-06-09T19:30,11ª RODADA
+20,Ferroviária x Botafogo-SP,AFE,1,BSP,1,2025-05-29T21:35,10ª RODADA
+21,Vila Nova x Novorizontino,VNO,0,NOV,1,2025-05-30T19:00,10ª RODADA
+22,Coritiba x Avaí,CFC,2,AVA,1,2025-05-31T16:00,10ª RODADA
+23,Atlético-GO x Goiás,ACG,1,GOI,2,2025-05-31T18:30,10ª RODADA
+24,Athletic Club x Cuiabá,ATH,0,CUI,2,2025-05-31T20:30,10ª RODADA
+25,Operário-PR x Athletico-PR,OPE,2,CAP,2,2025-06-01T16:00,10ª RODADA
+26,CRB x Remo,CRB,2,REM,0,2025-06-01T18:00,10ª RODADA
+27,Volta Redonda x América-MG,VRE,1,AME,0,2025-06-01T20:30,10ª RODADA
+28,Chapecoense x Amazonas,CHA,4,AMA,0,2025-06-02T19:00,10ª RODADA
+29,Paysandu x Criciúma,PAY,0,CRI,1,2025-06-02T21:00,10ª RODADA
+30,Goiás x Ferroviária,GOI,2,AFE,0,2025-05-23T21:35,9ª RODADA
+31,Athletico-PR x Athletic Club,CAP,1,ATH,0,2025-05-24T16:00,9ª RODADA
+32,Remo x Volta Redonda,REM,1,VRE,1,2025-05-24T18:00,9ª RODADA
+33,Avaí x Chapecoense,AVA,2,CHA,1,2025-05-24T18:30,9ª RODADA
+34,Novorizontino x Paysandu,NOV,3,PAY,1,2025-05-25T16:00,9ª RODADA
+35,Amazonas x Operário-PR,AMA,2,OPE,0,2025-05-25T18:30,9ª RODADA
+36,Criciúma x Coritiba,CRI,0,CFC,1,2025-05-26T19:00,9ª RODADA
+37,Botafogo-SP x CRB,BSP,2,CRB,1,2025-05-26T20:00,9ª RODADA
+38,Cuiabá x Vila Nova,CUI,1,VNO,0,2025-05-26T21:00,9ª RODADA
+39,América-MG x Atlético-GO,AME,2,ACG,1,2025-05-27T19:30,9ª RODADA
+40,Ferroviária x Avaí,AFE,1,AVA,1,2025-05-15T21:35,8ª RODADA
+41,Chapecoense x Cuiabá,CHA,2,CUI,1,2025-05-16T19:00,8ª RODADA
+42,Operário-PR x Botafogo-SP,OPE,3,BSP,0,2025-05-17T16:00,8ª RODADA
+43,Vila Nova x Athletico-PR,VNO,2,CAP,1,2025-05-17T18:30,8ª RODADA
+44,Athletic Club x Novorizontino,ATH,0,NOV,2,2025-05-17T20:30,8ª RODADA
+45,Atlético-GO x Remo,ACG,1,REM,1,2025-05-18T16:00,8ª RODADA
+46,CRB x Criciúma,CRB,1,CRI,0,2025-05-18T16:00,8ª RODADA
+47,Paysandu x Goiás,PAY,0,GOI,0,2025-05-18T18:30,8ª RODADA
+48,Volta Redonda x Amazonas,VRE,1,AMA,1,2025-05-19T19:00,8ª RODADA
+49,Coritiba x América-MG,CFC,1,AME,0,2025-05-19T21:35,8ª RODADA
+50,Athletico-PR x Chapecoense,CAP,1,CHA,1,2025-05-08T21:35,7ª RODADA
+51,Avaí x Atlético-GO,AVA,0,ACG,0,2025-05-10T16:00,7ª RODADA
+52,Goiás x Coritiba,GOI,1,CFC,0,2025-05-10T18:30,7ª RODADA
+53,Criciúma x Volta Redonda,CRI,0,VRE,0,2025-05-11T16:00,7ª RODADA
+54,Cuiabá x Operário-PR,CUI,2,OPE,3,2025-05-11T18:30,7ª RODADA
+55,Novorizontino x Ferroviária,NOV,2,AFE,2,2025-05-11T18:30,7ª RODADA
+56,Botafogo-SP x Athletic Club,BSP,0,ATH,3,2025-05-12T19:00,7ª RODADA
+57,Amazonas x CRB,AMA,1,CRB,1,2025-05-12T21:00,7ª RODADA
+58,Remo x Vila Nova,REM,2,VNO,0,2025-05-14T19:00,7ª RODADA
+59,América-MG x Paysandu,AME,2,PAY,2,2025-05-14T19:30,7ª RODADA
+60,Ferroviária x Coritiba,AFE,2,CFC,1,2025-05-02T21:35,6ª RODADA
+61,Remo x Amazonas,REM,1,AMA,0,2025-05-03T16:00,6ª RODADA
+62,Volta Redonda x Paysandu,VRE,1,PAY,0,2025-05-03T20:30,6ª RODADA
+63,Atlético-GO x Novorizontino,ACG,1,NOV,0,2025-05-04T16:00,6ª RODADA
+64,Athletico-PR x Botafogo-SP,CAP,1,BSP,4,2025-05-04T18:30,6ª RODADA
+65,Chapecoense x Criciúma,CHA,2,CRI,1,2025-05-04T18:30,6ª RODADA
+66,Operário-PR x América-MG,OPE,1,AME,0,2025-05-04T20:30,6ª RODADA
+67,Goiás x Avaí,GOI,2,AVA,1,2025-05-05T19:00,6ª RODADA
+68,CRB x Cuiabá,CRB,1,CUI,1,2025-05-06T19:30,6ª RODADA
+69,Athletic Club x Vila Nova,ATH,0,VNO,1,2025-05-06T21:30,6ª RODADA
+70,Novorizontino x Athletico-PR,NOV,2,CAP,1,2025-04-24T21:35,5ª RODADA
+71,Criciúma x Remo,CRI,1,REM,1,2025-04-25T19:00,5ª RODADA
+72,Vila Nova x Chapecoense,VNO,1,CHA,0,2025-04-25T21:00,5ª RODADA
+73,Coritiba x Operário-PR,CFC,2,OPE,0,2025-04-26T16:00,5ª RODADA
+74,Avaí x América-MG,AVA,3,AME,0,2025-04-26T20:00,5ª RODADA
+75,Athletic Club x Volta Redonda,ATH,2,VRE,1,2025-04-27T16:00,5ª RODADA
+76,Amazonas x Atlético-GO,AMA,1,ACG,1,2025-04-27T16:30,5ª RODADA
+77,Paysandu x CRB,PAY,1,CRB,1,2025-04-27T17:00,5ª RODADA
+78,Cuiabá x Ferroviária,CUI,1,AFE,0,2025-04-27T19:00,5ª RODADA
+79,Botafogo-SP x Goiás,BSP,0,GOI,1,2025-04-28T19:30,5ª RODADA
+80,Operário-PR x Paysandu,OPE,0,PAY,0,2025-04-19T16:00,4ª RODADA
+81,Vila Nova x Botafogo-SP,VNO,2,BSP,0,2025-04-20T16:00,4ª RODADA
+82,Chapecoense x Athletic Club,CHA,1,ATH,0,2025-04-20T18:00,4ª RODADA
+83,Athletico-PR x CRB,CAP,2,CRB,0,2025-04-20T19:00,4ª RODADA
+84,América-MG x Goiás,AME,1,GOI,0,2025-04-20T20:00,4ª RODADA
+85,Amazonas x Avaí,AMA,0,AVA,2,2025-04-21T18:00,4ª RODADA
+86,Novorizontino x Criciúma,NOV,1,CRI,1,2025-04-21T19:00,4ª RODADA
+87,Remo x Coritiba,REM,1,CFC,0,2025-04-21T21:30,4ª RODADA
+88,Atlético-GO x Cuiabá,ACG,1,CUI,1,2025-04-22T19:30,4ª RODADA
+89,Volta Redonda x Ferroviária,VRE,0,AFE,0,2025-04-22T20:00,4ª RODADA
+90,Cuiabá x Athletico-PR,CUI,2,CAP,1,2025-04-15T19:00,3ª RODADA
+91,Paysandu x Chapecoense,PAY,0,CHA,2,2025-04-16T20:00,3ª RODADA
+92,Avaí x Operário-PR,AVA,1,OPE,0,2025-04-16T20:00,3ª RODADA
+93,Coritiba x Novorizontino,CFC,0,NOV,0,2025-04-16T21:00,3ª RODADA
+94,Goiás x Vila Nova,GOI,2,VNO,2,2025-04-17T19:00,3ª RODADA
+95,Criciúma x Athletic Club,CRI,4,ATH,0,2025-04-17T20:00,3ª RODADA
+96,CRB x Volta Redonda,CRB,1,VRE,0,2025-04-17T20:00,3ª RODADA
+97,Botafogo-SP x Remo,BSP,2,REM,2,2025-04-17T20:00,3ª RODADA
+98,Ferroviária x Atlético-GO,AFE,2,ACG,0,2025-04-17T21:00,3ª RODADA
+99,América-MG x Amazonas,AME,3,AMA,1,2025-04-17T21:35,3ª RODADA
+100,Athletico-PR x Criciúma,CAP,2,CRI,1,2025-04-10T19:00,2ª RODADA
+101,Cuiabá x Avaí,CUI,2,AVA,2,2025-04-10T21:30,2ª RODADA
+102,Chapecoense x Coritiba,CHA,1,CFC,2,2025-04-12T16:00,2ª RODADA
+103,Vila Nova x Paysandu,VNO,1,PAY,0,2025-04-12T18:00,2ª RODADA
+104,Amazonas x Ferroviária,AMA,0,AFE,0,2025-04-12T19:00,2ª RODADA
+105,Novorizontino x Volta Redonda,NOV,1,VRE,0,2025-04-12T19:00,2ª RODADA
+106,Operário-PR x Goiás,OPE,1,GOI,2,2025-04-12T20:00,2ª RODADA
+107,Remo x América-MG,REM,2,AME,0,2025-04-13T16:00,2ª RODADA
+108,Athletic Club x CRB,ATH,1,CRB,2,2025-04-13T16:00,2ª RODADA
+109,Botafogo-SP x Atlético-GO,BSP,1,ACG,1,2025-04-13T19:00,2ª RODADA
+110,Goiás x Amazonas,GOI,1,AMA,0,2025-04-04T19:00,1ª RODADA
+111,Paysandu x Athletico-PR,PAY,1,CAP,2,2025-04-04T21:00,1ª RODADA
+112,Criciúma x Operário-PR,CRI,1,OPE,2,2025-04-04T21:00,1ª RODADA
+113,Coritiba x Vila Nova,CFC,1,VNO,0,2025-04-05T16:00,1ª RODADA
+114,CRB x Chapecoense,CRB,1,CHA,0,2025-04-05T16:00,1ª RODADA
+115,América-MG x Botafogo-SP,AME,1,BSP,0,2025-04-05T18:30,1ª RODADA
+116,Ferroviária x Remo,AFE,1,REM,1,2025-04-06T19:00,1ª RODADA
+117,Volta Redonda x Cuiabá,VRE,0,CUI,1,2025-04-06T19:00,1ª RODADA
+118,Avaí x Novorizontino,AVA,1,NOV,1,2025-04-06T20:00,1ª RODADA
+119,Atlético-GO x Athletic Club,ACG,4,ATH,2,2025-04-07T19:00,1ª RODADA
