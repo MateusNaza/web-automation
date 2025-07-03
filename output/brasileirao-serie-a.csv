@@ -1,0 +1,131 @@
+|partida|mandante|placar_mandante|visitante|placar_visitante|data_hora|Rodada
+0|Internacional x Vitória|INT||VIT||2025-07-12T16:30|13ª RODADA
+1|Bahia x Atlético-MG|BAH||CAM||2025-07-12T21:00|13ª RODADA
+2|Corinthians x Bragantino|COR||RBB||2025-07-13T19:00|13ª RODADA
+3|Cruzeiro x Grêmio|CRU||GRE||2025-07-13T20:30|13ª RODADA
+4|Fortaleza x Ceará|FOR||CEA||2025-07-13T20:30|13ª RODADA
+5|Juventude x Sport|JUV||SPT||2025-07-14T20:00|13ª RODADA
+6|Flamengo x São Paulo|FLA||SAO||Data não definida|13ª RODADA
+7|Vasco x Botafogo|VAS||BOT||Data não definida|13ª RODADA
+8|Santos x Palmeiras|SAN||PAL||Data não definida|13ª RODADA
+9|Mirassol x Fluminense|MIR||FLU||Data não definida|13ª RODADA
+10|Bragantino x Bahia|RBB|0|BAH|3|2025-06-12T19:00|12ª RODADA
+11|Vitória x Cruzeiro|VIT|0|CRU|0|2025-06-12T19:00|12ª RODADA
+12|Fortaleza x Santos|FOR|2|SAN|3|2025-06-12T19:30|12ª RODADA
+13|Grêmio x Corinthians|GRE|1|COR|1|2025-06-12T20:00|12ª RODADA
+14|São Paulo x Vasco|SAO|1|VAS|3|2025-06-12T21:30|12ª RODADA
+15|Atlético-MG x Internacional|CAM|2|INT|0|2025-06-12T21:30|12ª RODADA
+16|Fluminense x Ceará|FLU||CEA||Data não definida|12ª RODADA
+17|Botafogo x Mirassol|BOT||MIR||Data não definida|12ª RODADA
+18|Palmeiras x Juventude|PAL||JUV||Data não definida|12ª RODADA
+19|Sport x Flamengo|SPT||FLA||Data não definida|12ª RODADA
+20|Bahia x São Paulo|BAH|2|SAO|1|2025-05-31T18:30|11ª RODADA
+21|Vasco x Bragantino|VAS|0|RBB|2|2025-05-31T21:00|11ª RODADA
+22|Mirassol x Sport|MIR|1|SPT|0|2025-06-01T11:00|11ª RODADA
+23|Santos x Botafogo|SAN|0|BOT|1|2025-06-01T16:00|11ª RODADA
+24|Juventude x Grêmio|JUV|0|GRE|2|2025-06-01T16:00|11ª RODADA
+25|Flamengo x Fortaleza|FLA|5|FOR|0|2025-06-01T18:30|11ª RODADA
+26|Corinthians x Vitória|COR|0|VIT|0|2025-06-01T18:30|11ª RODADA
+27|Ceará x Atlético-MG|CEA|0|CAM|1|2025-06-01T18:30|11ª RODADA
+28|Cruzeiro x Palmeiras|CRU|2|PAL|1|2025-06-01T19:30|11ª RODADA
+29|Internacional x Fluminense|INT|0|FLU|2|2025-06-01T20:30|11ª RODADA
+30|Fluminense x Vasco|FLU|2|VAS|1|2025-05-24T18:30|10ª RODADA
+31|São Paulo x Mirassol|SAO|0|MIR|2|2025-05-24T18:30|10ª RODADA
+32|Atlético-MG x Corinthians|CAM|0|COR|0|2025-05-24T21:00|10ª RODADA
+33|Grêmio x Bahia|GRE|1|BAH|0|2025-05-25T11:00|10ª RODADA
+34|Palmeiras x Flamengo|PAL|0|FLA|2|2025-05-25T16:00|10ª RODADA
+35|Sport x Internacional|SPT|1|INT|1|2025-05-25T16:00|10ª RODADA
+36|Vitória x Santos|VIT|0|SAN|1|2025-05-25T18:30|10ª RODADA
+37|Fortaleza x Cruzeiro|FOR|0|CRU|2|2025-05-25T20:30|10ª RODADA
+38|Bragantino x Juventude|RBB|1|JUV|0|2025-05-26T20:00|10ª RODADA
+39|Botafogo x Ceará|BOT|3|CEA|2|2025-06-04T20:00|10ª RODADA
+40|Ceará x Sport|CEA|2|SPT|0|2025-05-17T16:00|9ª RODADA
+41|Vasco x Fortaleza|VAS|3|FOR|0|2025-05-17T18:30|9ª RODADA
+42|São Paulo x Grêmio|SAO|2|GRE|1|2025-05-17T21:00|9ª RODADA
+43|Corinthians x Santos|COR|1|SAN|0|2025-05-18T16:00|9ª RODADA
+44|Bahia x Vitória|BAH|2|VIT|1|2025-05-18T16:00|9ª RODADA
+45|Juventude x Fluminense|JUV|1|FLU|1|2025-05-18T16:00|9ª RODADA
+46|Flamengo x Botafogo|FLA|0|BOT|0|2025-05-18T18:30|9ª RODADA
+47|Bragantino x Palmeiras|RBB|1|PAL|2|2025-05-18T18:30|9ª RODADA
+48|Cruzeiro x Atlético-MG|CRU|0|CAM|0|2025-05-18T20:30|9ª RODADA
+49|Internacional x Mirassol|INT|1|MIR|1|2025-05-18T20:30|9ª RODADA
+50|Fortaleza x Juventude|FOR|5|JUV|0|2025-05-10T16:00|8ª RODADA
+51|Mirassol x Corinthians|MIR|2|COR|1|2025-05-10T18:30|8ª RODADA
+52|Grêmio x Bragantino|GRE|1|RBB|1|2025-05-10T18:30|8ª RODADA
+53|Vitória x Vasco|VIT|2|VAS|1|2025-05-10T18:30|8ª RODADA
+54|Flamengo x Bahia|FLA|1|BAH|0|2025-05-10T21:00|8ª RODADA
+55|Sport x Cruzeiro|SPT|0|CRU|4|2025-05-11T16:00|8ª RODADA
+56|Palmeiras x São Paulo|PAL|1|SAO|0|2025-05-11T17:30|8ª RODADA
+57|Atlético-MG x Fluminense|CAM|3|FLU|2|2025-05-11T17:30|8ª RODADA
+58|Botafogo x Internacional|BOT|4|INT|0|2025-05-11T20:00|8ª RODADA
+59|Santos x Ceará|SAN|0|CEA|0|2025-05-12T20:00|8ª RODADA
+60|São Paulo x Fortaleza|SAO|0|FOR|0|2025-05-02T21:30|7ª RODADA
+61|Fluminense x Sport|FLU|2|SPT|1|2025-05-03T18:30|7ª RODADA
+62|Corinthians x Internacional|COR|4|INT|2|2025-05-03T18:30|7ª RODADA
+63|Ceará x Vitória|CEA|1|VIT|0|2025-05-03T18:30|7ª RODADA
+64|Bahia x Botafogo|BAH|1|BOT|0|2025-05-03T21:00|7ª RODADA
+65|Vasco x Palmeiras|VAS|0|PAL|1|2025-05-04T16:00|7ª RODADA
+66|Grêmio x Santos|GRE|1|SAN|0|2025-05-04T16:00|7ª RODADA
+67|Cruzeiro x Flamengo|CRU|2|FLA|1|2025-05-04T18:30|7ª RODADA
+68|Bragantino x Mirassol|RBB|1|MIR|0|2025-05-05T19:00|7ª RODADA
+69|Juventude x Atlético-MG|JUV|0|CAM|1|2025-05-05T20:00|7ª RODADA
+70|Internacional x Juventude|INT|3|JUV|1|2025-04-26T16:00|6ª RODADA
+71|Mirassol x Atlético-MG|MIR|2|CAM|2|2025-04-26T18:30|6ª RODADA
+72|Ceará x São Paulo|CEA|1|SAO|1|2025-04-26T18:30|6ª RODADA
+73|Sport x Fortaleza|SPT|0|FOR|0|2025-04-26T20:00|6ª RODADA
+74|Botafogo x Fluminense|BOT|2|FLU|0|2025-04-26T21:00|6ª RODADA
+75|Flamengo x Corinthians|FLA|4|COR|0|2025-04-27T16:00|6ª RODADA
+76|Palmeiras x Bahia|PAL|0|BAH|1|2025-04-27T18:30|6ª RODADA
+77|Cruzeiro x Vasco|CRU|1|VAS|0|2025-04-27T18:30|6ª RODADA
+78|Vitória x Grêmio|VIT|1|GRE|1|2025-04-27T18:30|6ª RODADA
+79|Santos x Bragantino|SAN|1|RBB|2|2025-04-27T20:30|6ª RODADA
+80|Corinthians x Sport|COR|2|SPT|1|2025-04-19T16:00|5ª RODADA
+81|Vasco x Flamengo|VAS|0|FLA|0|2025-04-19T18:30|5ª RODADA
+82|Grêmio x Internacional|GRE|1|INT|1|2025-04-19T21:00|5ª RODADA
+83|Juventude x Mirassol|JUV|2|MIR|2|2025-04-20T11:00|5ª RODADA
+84|São Paulo x Santos|SAO|2|SAN|1|2025-04-20T16:00|5ª RODADA
+85|Atlético-MG x Botafogo|CAM|1|BOT|0|2025-04-20T16:00|5ª RODADA
+86|Fluminense x Vitória|FLU|1|VIT|1|2025-04-20T18:30|5ª RODADA
+87|Fortaleza x Palmeiras|FOR|1|PAL|2|2025-04-20T18:30|5ª RODADA
+88|Bragantino x Cruzeiro|RBB|1|CRU|0|2025-04-20T20:30|5ª RODADA
+89|Bahia x Ceará|BAH|1|CEA|0|2025-04-21T20:00|5ª RODADA
+90|Ceará x Vasco|CEA|2|VAS|1|2025-04-15T21:30|4ª RODADA
+91|Botafogo x São Paulo|BOT|2|SAO|2|2025-04-16T18:30|4ª RODADA
+92|Mirassol x Grêmio|MIR|4|GRE|1|2025-04-16T19:00|4ª RODADA
+93|Sport x Bragantino|SPT|0|RBB|1|2025-04-16T19:00|4ª RODADA
+94|Corinthians x Fluminense|COR|0|FLU|2|2025-04-16T19:30|4ª RODADA
+95|Internacional x Palmeiras|INT|0|PAL|1|2025-04-16T19:30|4ª RODADA
+96|Flamengo x Juventude|FLA|6|JUV|0|2025-04-16T21:30|4ª RODADA
+97|Santos x Atlético-MG|SAN|2|CAM|0|2025-04-16T21:30|4ª RODADA
+98|Vitória x Fortaleza|VIT|2|FOR|1|2025-04-16T21:30|4ª RODADA
+99|Cruzeiro x Bahia|CRU|3|BAH|0|2025-04-17T21:30|4ª RODADA
+100|Bragantino x Botafogo|RBB|1|BOT|0|2025-04-12T16:00|3ª RODADA
+101|Juventude x Ceará|JUV|2|CEA|1|2025-04-12T16:00|3ª RODADA
+102|Palmeiras x Corinthians|PAL|2|COR|0|2025-04-12T18:30|3ª RODADA
+103|Vasco x Sport|VAS|3|SPT|1|2025-04-12T21:00|3ª RODADA
+104|Bahia x Mirassol|BAH|1|MIR|1|2025-04-13T16:00|3ª RODADA
+105|São Paulo x Cruzeiro|SAO|1|CRU|1|2025-04-13T17:30|3ª RODADA
+106|Grêmio x Flamengo|GRE|0|FLA|2|2025-04-13T17:30|3ª RODADA
+107|Fluminense x Santos|FLU|1|SAN|0|2025-04-13T19:30|3ª RODADA
+108|Fortaleza x Internacional|FOR|0|INT|0|2025-04-13T20:00|3ª RODADA
+109|Atlético-MG x Vitória|CAM|2|VIT|2|2025-04-13T20:30|3ª RODADA
+110|Corinthians x Vasco|COR|3|VAS|0|2025-04-05T18:30|2ª RODADA
+111|Ceará x Grêmio|CEA|2|GRE|0|2025-04-05T18:30|2ª RODADA
+112|Botafogo x Juventude|BOT|2|JUV|0|2025-04-05T21:00|2ª RODADA
+113|Fluminense x Bragantino|FLU|2|RBB|1|2025-04-06T16:00|2ª RODADA
+114|Atlético-MG x São Paulo|CAM|0|SAO|0|2025-04-06T16:00|2ª RODADA
+115|Mirassol x Fortaleza|MIR|1|FOR|1|2025-04-06T18:30|2ª RODADA
+116|Internacional x Cruzeiro|INT|3|CRU|0|2025-04-06T18:30|2ª RODADA
+117|Vitória x Flamengo|VIT|1|FLA|2|2025-04-06T18:30|2ª RODADA
+118|Sport x Palmeiras|SPT|1|PAL|2|2025-04-06T18:30|2ª RODADA
+119|Santos x Bahia|SAN|2|BAH|2|2025-04-06T20:30|2ª RODADA
+120|São Paulo x Sport|SAO|0|SPT|0|2025-03-29T18:30|1ª RODADA
+121|Cruzeiro x Mirassol|CRU|2|MIR|1|2025-03-29T18:30|1ª RODADA
+122|Grêmio x Atlético-MG|GRE|2|CAM|1|2025-03-29T18:30|1ª RODADA
+123|Fortaleza x Fluminense|FOR|2|FLU|0|2025-03-29T18:30|1ª RODADA
+124|Juventude x Vitória|JUV|2|VIT|0|2025-03-29T18:30|1ª RODADA
+125|Flamengo x Internacional|FLA|1|INT|1|2025-03-29T21:00|1ª RODADA
+126|Palmeiras x Botafogo|PAL|0|BOT|0|2025-03-30T16:00|1ª RODADA
+127|Vasco x Santos|VAS|2|SAN|1|2025-03-30T18:30|1ª RODADA
+128|Bahia x Corinthians|BAH|1|COR|1|2025-03-30T20:00|1ª RODADA
+129|Bragantino x Ceará|RBB|2|CEA|2|2025-03-31T20:00|1ª RODADA

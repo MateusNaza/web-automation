@@ -1,0 +1,904 @@
+{
+    "11ª RODADA": [
+        {
+            "partida": "Náutico x Floresta",
+            "mandante": "NAU",
+            "placar_mandante": "",
+            "visitante": "FLO",
+            "placar_visitante": "",
+            "data_hora": "2025-07-05T17:00"
+        },
+        {
+            "partida": "Ituano x Retrô",
+            "mandante": "ITU",
+            "placar_mandante": "",
+            "visitante": "RET",
+            "placar_visitante": "",
+            "data_hora": "2025-07-05T17:00"
+        },
+        {
+            "partida": "Confiança x ABC",
+            "mandante": "CON",
+            "placar_mandante": "",
+            "visitante": "ABC",
+            "placar_visitante": "",
+            "data_hora": "2025-07-05T19:30"
+        },
+        {
+            "partida": "CSA x Caxias",
+            "mandante": "CSA",
+            "placar_mandante": "",
+            "visitante": "CAX",
+            "placar_visitante": "",
+            "data_hora": "2025-07-05T19:30"
+        },
+        {
+            "partida": "Anápolis x Itabaiana",
+            "mandante": "AFC",
+            "placar_mandante": "",
+            "visitante": "ITA",
+            "placar_visitante": "",
+            "data_hora": "2025-07-06T16:30"
+        },
+        {
+            "partida": "Londrina x Guarani",
+            "mandante": "LEC",
+            "placar_mandante": "",
+            "visitante": "GUA",
+            "placar_visitante": "",
+            "data_hora": "2025-07-06T16:30"
+        },
+        {
+            "partida": "Ypiranga-RS x Maringá",
+            "mandante": "YPI",
+            "placar_mandante": "",
+            "visitante": "MAR",
+            "placar_visitante": "",
+            "data_hora": "2025-07-06T19:00"
+        },
+        {
+            "partida": "Brusque x Figueirense",
+            "mandante": "BRU",
+            "placar_mandante": "",
+            "visitante": "FIG",
+            "placar_visitante": "",
+            "data_hora": "2025-07-06T19:00"
+        },
+        {
+            "partida": "Ponte Preta x Tombense",
+            "mandante": "PON",
+            "placar_mandante": "",
+            "visitante": "TOM",
+            "placar_visitante": "",
+            "data_hora": "2025-07-07T19:30"
+        },
+        {
+            "partida": "Botafogo-PB x São Bernardo",
+            "mandante": "BOT",
+            "placar_mandante": "",
+            "visitante": "SBD",
+            "placar_visitante": "",
+            "data_hora": "2025-07-07T19:30"
+        }
+    ],
+    "10ª RODADA": [
+        {
+            "partida": "Retrô x Londrina",
+            "mandante": "RET",
+            "placar_mandante": "0",
+            "visitante": "LEC",
+            "placar_visitante": "4",
+            "data_hora": "2025-06-28T17:00"
+        },
+        {
+            "partida": "Guarani x CSA",
+            "mandante": "GUA",
+            "placar_mandante": "1",
+            "visitante": "CSA",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-28T17:00"
+        },
+        {
+            "partida": "São Bernardo x Anápolis",
+            "mandante": "SBD",
+            "placar_mandante": "3",
+            "visitante": "AFC",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-28T19:30"
+        },
+        {
+            "partida": "Maringá x Ponte Preta",
+            "mandante": "MAR",
+            "placar_mandante": "0",
+            "visitante": "PON",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-28T19:30"
+        },
+        {
+            "partida": "Figueirense x Confiança",
+            "mandante": "FIG",
+            "placar_mandante": "1",
+            "visitante": "CON",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-29T16:30"
+        },
+        {
+            "partida": "ABC x Ypiranga-RS",
+            "mandante": "ABC",
+            "placar_mandante": "0",
+            "visitante": "YPI",
+            "placar_visitante": "3",
+            "data_hora": "2025-06-29T16:30"
+        },
+        {
+            "partida": "Tombense x Náutico",
+            "mandante": "TOM",
+            "placar_mandante": "0",
+            "visitante": "NAU",
+            "placar_visitante": "2",
+            "data_hora": "2025-06-29T19:00"
+        },
+        {
+            "partida": "Caxias x Ituano",
+            "mandante": "CAX",
+            "placar_mandante": "2",
+            "visitante": "ITU",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-29T19:00"
+        },
+        {
+            "partida": "Floresta x Brusque",
+            "mandante": "FLO",
+            "placar_mandante": "2",
+            "visitante": "BRU",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-30T16:00"
+        },
+        {
+            "partida": "Itabaiana x Botafogo-PB",
+            "mandante": "ITA",
+            "placar_mandante": "1",
+            "visitante": "BOT",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-30T19:30"
+        }
+    ],
+    "9ª RODADA": [
+        {
+            "partida": "Ponte Preta x ABC",
+            "mandante": "PON",
+            "placar_mandante": "0",
+            "visitante": "ABC",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-14T17:00"
+        },
+        {
+            "partida": "Ituano x São Bernardo",
+            "mandante": "ITU",
+            "placar_mandante": "1",
+            "visitante": "SBD",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-14T17:00"
+        },
+        {
+            "partida": "Anápolis x Retrô",
+            "mandante": "AFC",
+            "placar_mandante": "0",
+            "visitante": "RET",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-14T19:30"
+        },
+        {
+            "partida": "Botafogo-PB x Caxias",
+            "mandante": "BOT",
+            "placar_mandante": "1",
+            "visitante": "CAX",
+            "placar_visitante": "2",
+            "data_hora": "2025-06-14T19:30"
+        },
+        {
+            "partida": "Londrina x Figueirense",
+            "mandante": "LEC",
+            "placar_mandante": "2",
+            "visitante": "FIG",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-15T16:30"
+        },
+        {
+            "partida": "Brusque x Tombense",
+            "mandante": "BRU",
+            "placar_mandante": "0",
+            "visitante": "TOM",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-15T16:30"
+        },
+        {
+            "partida": "Guarani x Itabaiana",
+            "mandante": "GUA",
+            "placar_mandante": "2",
+            "visitante": "ITA",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-15T19:00"
+        },
+        {
+            "partida": "Ypiranga-RS x Confiança",
+            "mandante": "YPI",
+            "placar_mandante": "1",
+            "visitante": "CON",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-15T19:00"
+        },
+        {
+            "partida": "Náutico x Maringá",
+            "mandante": "NAU",
+            "placar_mandante": "2",
+            "visitante": "MAR",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-16T19:30"
+        },
+        {
+            "partida": "CSA x Floresta",
+            "mandante": "CSA",
+            "placar_mandante": "2",
+            "visitante": "FLO",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-16T19:30"
+        }
+    ],
+    "8ª RODADA": [
+        {
+            "partida": "Retrô x Guarani",
+            "mandante": "RET",
+            "placar_mandante": "0",
+            "visitante": "GUA",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-31T17:00"
+        },
+        {
+            "partida": "ABC x Náutico",
+            "mandante": "ABC",
+            "placar_mandante": "0",
+            "visitante": "NAU",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-31T17:00"
+        },
+        {
+            "partida": "Caxias x Londrina",
+            "mandante": "CAX",
+            "placar_mandante": "4",
+            "visitante": "LEC",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-31T19:30"
+        },
+        {
+            "partida": "Floresta x Itabaiana",
+            "mandante": "FLO",
+            "placar_mandante": "1",
+            "visitante": "ITA",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-31T19:30"
+        },
+        {
+            "partida": "Confiança x Brusque",
+            "mandante": "CON",
+            "placar_mandante": "4",
+            "visitante": "BRU",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-01T16:30"
+        },
+        {
+            "partida": "Tombense x Anápolis",
+            "mandante": "TOM",
+            "placar_mandante": "1",
+            "visitante": "AFC",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-01T16:30"
+        },
+        {
+            "partida": "Maringá x Ituano",
+            "mandante": "MAR",
+            "placar_mandante": "1",
+            "visitante": "ITU",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-01T19:00"
+        },
+        {
+            "partida": "Figueirense x Botafogo-PB",
+            "mandante": "FIG",
+            "placar_mandante": "1",
+            "visitante": "BOT",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-01T19:00"
+        },
+        {
+            "partida": "Ponte Preta x Ypiranga-RS",
+            "mandante": "PON",
+            "placar_mandante": "0",
+            "visitante": "YPI",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-02T19:30"
+        },
+        {
+            "partida": "São Bernardo x CSA",
+            "mandante": "SBD",
+            "placar_mandante": "1",
+            "visitante": "CSA",
+            "placar_visitante": "3",
+            "data_hora": "2025-06-02T19:30"
+        }
+    ],
+    "7ª RODADA": [
+        {
+            "partida": "Náutico x Ponte Preta",
+            "mandante": "NAU",
+            "placar_mandante": "0",
+            "visitante": "PON",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-24T17:00"
+        },
+        {
+            "partida": "CSA x Confiança",
+            "mandante": "CSA",
+            "placar_mandante": "0",
+            "visitante": "CON",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-24T17:00"
+        },
+        {
+            "partida": "Itabaiana x Caxias",
+            "mandante": "ITA",
+            "placar_mandante": "2",
+            "visitante": "CAX",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-24T19:30"
+        },
+        {
+            "partida": "Londrina x ABC",
+            "mandante": "LEC",
+            "placar_mandante": "1",
+            "visitante": "ABC",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-24T19:30"
+        },
+        {
+            "partida": "Botafogo-PB x Retrô",
+            "mandante": "BOT",
+            "placar_mandante": "1",
+            "visitante": "RET",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-25T15:00"
+        },
+        {
+            "partida": "Ituano x Floresta",
+            "mandante": "ITU",
+            "placar_mandante": "0",
+            "visitante": "FLO",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-25T16:30"
+        },
+        {
+            "partida": "Ypiranga-RS x Tombense",
+            "mandante": "YPI",
+            "placar_mandante": "1",
+            "visitante": "TOM",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-25T16:30"
+        },
+        {
+            "partida": "Anápolis x Maringá",
+            "mandante": "AFC",
+            "placar_mandante": "1",
+            "visitante": "MAR",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-25T19:00"
+        },
+        {
+            "partida": "Guarani x Figueirense",
+            "mandante": "GUA",
+            "placar_mandante": "0",
+            "visitante": "FIG",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-26T19:30"
+        },
+        {
+            "partida": "Brusque x São Bernardo",
+            "mandante": "BRU",
+            "placar_mandante": "1",
+            "visitante": "SBD",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-26T19:30"
+        }
+    ],
+    "6ª RODADA": [
+        {
+            "partida": "Tombense x CSA",
+            "mandante": "TOM",
+            "placar_mandante": "0",
+            "visitante": "CSA",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-17T17:00"
+        },
+        {
+            "partida": "Floresta x Guarani",
+            "mandante": "FLO",
+            "placar_mandante": "0",
+            "visitante": "GUA",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-17T17:00"
+        },
+        {
+            "partida": "Ponte Preta x Brusque",
+            "mandante": "PON",
+            "placar_mandante": "1",
+            "visitante": "BRU",
+            "placar_visitante": "4",
+            "data_hora": "2025-05-17T19:30"
+        },
+        {
+            "partida": "Ypiranga-RS x Náutico",
+            "mandante": "YPI",
+            "placar_mandante": "0",
+            "visitante": "NAU",
+            "placar_visitante": "4",
+            "data_hora": "2025-05-17T19:30"
+        },
+        {
+            "partida": "São Bernardo x Caxias",
+            "mandante": "SBD",
+            "placar_mandante": "1",
+            "visitante": "CAX",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-18T16:30"
+        },
+        {
+            "partida": "Maringá x Botafogo-PB",
+            "mandante": "MAR",
+            "placar_mandante": "1",
+            "visitante": "BOT",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-18T16:30"
+        },
+        {
+            "partida": "Retrô x Itabaiana",
+            "mandante": "RET",
+            "placar_mandante": "1",
+            "visitante": "ITA",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-18T19:00"
+        },
+        {
+            "partida": "Figueirense x Ituano",
+            "mandante": "FIG",
+            "placar_mandante": "2",
+            "visitante": "ITU",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-18T19:00"
+        },
+        {
+            "partida": "Confiança x Londrina",
+            "mandante": "CON",
+            "placar_mandante": "0",
+            "visitante": "LEC",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-19T19:30"
+        },
+        {
+            "partida": "ABC x Anápolis",
+            "mandante": "ABC",
+            "placar_mandante": "3",
+            "visitante": "AFC",
+            "placar_visitante": "3",
+            "data_hora": "2025-05-19T19:30"
+        }
+    ],
+    "5ª RODADA": [
+        {
+            "partida": "Náutico x Confiança",
+            "mandante": "NAU",
+            "placar_mandante": "2",
+            "visitante": "CON",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-10T17:00"
+        },
+        {
+            "partida": "Guarani x São Bernardo",
+            "mandante": "GUA",
+            "placar_mandante": "0",
+            "visitante": "SBD",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-10T17:00"
+        },
+        {
+            "partida": "Anápolis x Ypiranga-RS",
+            "mandante": "AFC",
+            "placar_mandante": "0",
+            "visitante": "YPI",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-10T19:30"
+        },
+        {
+            "partida": "Brusque x ABC",
+            "mandante": "BRU",
+            "placar_mandante": "0",
+            "visitante": "ABC",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-10T19:30"
+        },
+        {
+            "partida": "Caxias x Retrô",
+            "mandante": "CAX",
+            "placar_mandante": "2",
+            "visitante": "RET",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-11T16:30"
+        },
+        {
+            "partida": "Botafogo-PB x Floresta",
+            "mandante": "BOT",
+            "placar_mandante": "2",
+            "visitante": "FLO",
+            "placar_visitante": "3",
+            "data_hora": "2025-05-11T16:30"
+        },
+        {
+            "partida": "Londrina x Tombense",
+            "mandante": "LEC",
+            "placar_mandante": "1",
+            "visitante": "TOM",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-11T19:00"
+        },
+        {
+            "partida": "CSA x Maringá",
+            "mandante": "CSA",
+            "placar_mandante": "3",
+            "visitante": "MAR",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-11T19:00"
+        },
+        {
+            "partida": "Itabaiana x Figueirense",
+            "mandante": "ITA",
+            "placar_mandante": "1",
+            "visitante": "FIG",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-12T19:30"
+        },
+        {
+            "partida": "Ituano x Ponte Preta",
+            "mandante": "ITU",
+            "placar_mandante": "0",
+            "visitante": "PON",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-12T19:30"
+        }
+    ],
+    "4ª RODADA": [
+        {
+            "partida": "Maringá x Confiança",
+            "mandante": "MAR",
+            "placar_mandante": "3",
+            "visitante": "CON",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-03T17:00"
+        },
+        {
+            "partida": "ABC x Ituano",
+            "mandante": "ABC",
+            "placar_mandante": "2",
+            "visitante": "ITU",
+            "placar_visitante": "3",
+            "data_hora": "2025-05-03T17:00"
+        },
+        {
+            "partida": "Ponte Preta x Anápolis",
+            "mandante": "PON",
+            "placar_mandante": "2",
+            "visitante": "AFC",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-03T19:30"
+        },
+        {
+            "partida": "Tombense x Itabaiana",
+            "mandante": "TOM",
+            "placar_mandante": "2",
+            "visitante": "ITA",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-03T19:30"
+        },
+        {
+            "partida": "Ypiranga-RS x CSA",
+            "mandante": "YPI",
+            "placar_mandante": "1",
+            "visitante": "CSA",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-04T16:30"
+        },
+        {
+            "partida": "Floresta x Retrô",
+            "mandante": "FLO",
+            "placar_mandante": "1",
+            "visitante": "RET",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-04T16:30"
+        },
+        {
+            "partida": "Náutico x Brusque",
+            "mandante": "NAU",
+            "placar_mandante": "0",
+            "visitante": "BRU",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-04T19:00"
+        },
+        {
+            "partida": "Guarani x Botafogo-PB",
+            "mandante": "GUA",
+            "placar_mandante": "2",
+            "visitante": "BOT",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-04T19:00"
+        },
+        {
+            "partida": "São Bernardo x Londrina",
+            "mandante": "SBD",
+            "placar_mandante": "0",
+            "visitante": "LEC",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-05T19:30"
+        },
+        {
+            "partida": "Figueirense x Caxias",
+            "mandante": "FIG",
+            "placar_mandante": "2",
+            "visitante": "CAX",
+            "placar_visitante": "3",
+            "data_hora": "2025-05-05T19:30"
+        }
+    ],
+    "3ª RODADA": [
+        {
+            "partida": "Confiança x Ponte Preta",
+            "mandante": "CON",
+            "placar_mandante": "1",
+            "visitante": "PON",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-26T17:00"
+        },
+        {
+            "partida": "Londrina x Maringá",
+            "mandante": "LEC",
+            "placar_mandante": "1",
+            "visitante": "MAR",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-26T17:00"
+        },
+        {
+            "partida": "Retrô x Figueirense",
+            "mandante": "RET",
+            "placar_mandante": "2",
+            "visitante": "FIG",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-26T19:30"
+        },
+        {
+            "partida": "CSA x Náutico",
+            "mandante": "CSA",
+            "placar_mandante": "2",
+            "visitante": "NAU",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-26T19:30"
+        },
+        {
+            "partida": "Itabaiana x São Bernardo",
+            "mandante": "ITA",
+            "placar_mandante": "0",
+            "visitante": "SBD",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-27T16:30"
+        },
+        {
+            "partida": "Ituano x Tombense",
+            "mandante": "ITU",
+            "placar_mandante": "3",
+            "visitante": "TOM",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-27T16:30"
+        },
+        {
+            "partida": "Brusque x Ypiranga-RS",
+            "mandante": "BRU",
+            "placar_mandante": "1",
+            "visitante": "YPI",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-27T19:00"
+        },
+        {
+            "partida": "Botafogo-PB x ABC",
+            "mandante": "BOT",
+            "placar_mandante": "0",
+            "visitante": "ABC",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-27T19:00"
+        },
+        {
+            "partida": "Anápolis x Floresta",
+            "mandante": "AFC",
+            "placar_mandante": "0",
+            "visitante": "FLO",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-28T19:30"
+        },
+        {
+            "partida": "Caxias x Guarani",
+            "mandante": "CAX",
+            "placar_mandante": "2",
+            "visitante": "GUA",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-28T19:30"
+        }
+    ],
+    "2ª RODADA": [
+        {
+            "partida": "Náutico x Botafogo-PB",
+            "mandante": "NAU",
+            "placar_mandante": "0",
+            "visitante": "BOT",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-19T17:00"
+        },
+        {
+            "partida": "Ponte Preta x Retrô",
+            "mandante": "PON",
+            "placar_mandante": "1",
+            "visitante": "RET",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-19T17:00"
+        },
+        {
+            "partida": "Anápolis x Ituano",
+            "mandante": "AFC",
+            "placar_mandante": "0",
+            "visitante": "ITU",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-19T19:30"
+        },
+        {
+            "partida": "Ypiranga-RS x Itabaiana",
+            "mandante": "YPI",
+            "placar_mandante": "3",
+            "visitante": "ITA",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-19T19:30"
+        },
+        {
+            "partida": "Confiança x Caxias",
+            "mandante": "CON",
+            "placar_mandante": "2",
+            "visitante": "CAX",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-20T16:30"
+        },
+        {
+            "partida": "Floresta x Londrina",
+            "mandante": "FLO",
+            "placar_mandante": "0",
+            "visitante": "LEC",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-20T16:30"
+        },
+        {
+            "partida": "Maringá x São Bernardo",
+            "mandante": "MAR",
+            "placar_mandante": "1",
+            "visitante": "SBD",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-20T19:00"
+        },
+        {
+            "partida": "Brusque x Guarani",
+            "mandante": "BRU",
+            "placar_mandante": "1",
+            "visitante": "GUA",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-20T19:00"
+        },
+        {
+            "partida": "Tombense x Figueirense",
+            "mandante": "TOM",
+            "placar_mandante": "3",
+            "visitante": "FIG",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-21T19:30"
+        },
+        {
+            "partida": "ABC x CSA",
+            "mandante": "ABC",
+            "placar_mandante": "1",
+            "visitante": "CSA",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-21T19:30"
+        }
+    ],
+    "1ª RODADA": [
+        {
+            "partida": "Ituano x Brusque",
+            "mandante": "ITU",
+            "placar_mandante": "0",
+            "visitante": "BRU",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-12T16:00"
+        },
+        {
+            "partida": "Figueirense x Ponte Preta",
+            "mandante": "FIG",
+            "placar_mandante": "1",
+            "visitante": "PON",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-12T16:00"
+        },
+        {
+            "partida": "CSA x Anápolis",
+            "mandante": "CSA",
+            "placar_mandante": "1",
+            "visitante": "AFC",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-12T16:00"
+        },
+        {
+            "partida": "Botafogo-PB x Confiança",
+            "mandante": "BOT",
+            "placar_mandante": "3",
+            "visitante": "CON",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-12T16:00"
+        },
+        {
+            "partida": "Retrô x Tombense",
+            "mandante": "RET",
+            "placar_mandante": "0",
+            "visitante": "TOM",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-13T16:00"
+        },
+        {
+            "partida": "Itabaiana x Náutico",
+            "mandante": "ITA",
+            "placar_mandante": "2",
+            "visitante": "NAU",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-13T16:00"
+        },
+        {
+            "partida": "Guarani x Maringá",
+            "mandante": "GUA",
+            "placar_mandante": "2",
+            "visitante": "MAR",
+            "placar_visitante": "3",
+            "data_hora": "2025-04-13T16:00"
+        },
+        {
+            "partida": "São Bernardo x ABC",
+            "mandante": "SBD",
+            "placar_mandante": "1",
+            "visitante": "ABC",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-13T16:00"
+        },
+        {
+            "partida": "Caxias x Floresta",
+            "mandante": "CAX",
+            "placar_mandante": "1",
+            "visitante": "FLO",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-13T16:00"
+        },
+        {
+            "partida": "Londrina x Ypiranga-RS",
+            "mandante": "LEC",
+            "placar_mandante": "3",
+            "visitante": "YPI",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-14T20:00"
+        }
+    ]
+}

@@ -26,7 +26,7 @@ def parser(html):
 
         # Data e Hora dos jogos
         data = jogo.find('meta', itemprop='startDate')
-        data_hora = data['content'] if data else 'Data não definida'
+        data_hora = data.get('content', 'Data não definida') if data else 'Data não definida'
 
         # Adiciona os resultados à lista
         resultados.append({

@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 
 def load_to_csv(json):
     # Carrega o JSON em um dataframe
@@ -13,7 +14,8 @@ def load_to_csv(json):
     # Adicionar a coluna de Rodada de volta
     df_expandido["Rodada"] = df_melted["Rodada"]
 
-    csv_file_name = 'output/tabela.csv'
+    file_name = os.path.splitext(os.path.basename(json))[0]
+    csv_file_name = f'output/{file_name}.csv'
 
     df_expandido.to_csv(csv_file_name, sep='|')
 

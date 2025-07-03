@@ -1,0 +1,1068 @@
+{
+    "13ª RODADA": [
+        {
+            "partida": "Internacional x Vitória",
+            "mandante": "INT",
+            "placar_mandante": "",
+            "visitante": "VIT",
+            "placar_visitante": "",
+            "data_hora": "2025-07-12T16:30"
+        },
+        {
+            "partida": "Bahia x Atlético-MG",
+            "mandante": "BAH",
+            "placar_mandante": "",
+            "visitante": "CAM",
+            "placar_visitante": "",
+            "data_hora": "2025-07-12T21:00"
+        },
+        {
+            "partida": "Corinthians x Bragantino",
+            "mandante": "COR",
+            "placar_mandante": "",
+            "visitante": "RBB",
+            "placar_visitante": "",
+            "data_hora": "2025-07-13T19:00"
+        },
+        {
+            "partida": "Cruzeiro x Grêmio",
+            "mandante": "CRU",
+            "placar_mandante": "",
+            "visitante": "GRE",
+            "placar_visitante": "",
+            "data_hora": "2025-07-13T20:30"
+        },
+        {
+            "partida": "Fortaleza x Ceará",
+            "mandante": "FOR",
+            "placar_mandante": "",
+            "visitante": "CEA",
+            "placar_visitante": "",
+            "data_hora": "2025-07-13T20:30"
+        },
+        {
+            "partida": "Juventude x Sport",
+            "mandante": "JUV",
+            "placar_mandante": "",
+            "visitante": "SPT",
+            "placar_visitante": "",
+            "data_hora": "2025-07-14T20:00"
+        },
+        {
+            "partida": "Flamengo x São Paulo",
+            "mandante": "FLA",
+            "placar_mandante": "",
+            "visitante": "SAO",
+            "placar_visitante": "",
+            "data_hora": "Data não definida"
+        },
+        {
+            "partida": "Vasco x Botafogo",
+            "mandante": "VAS",
+            "placar_mandante": "",
+            "visitante": "BOT",
+            "placar_visitante": "",
+            "data_hora": "Data não definida"
+        },
+        {
+            "partida": "Santos x Palmeiras",
+            "mandante": "SAN",
+            "placar_mandante": "",
+            "visitante": "PAL",
+            "placar_visitante": "",
+            "data_hora": "Data não definida"
+        },
+        {
+            "partida": "Mirassol x Fluminense",
+            "mandante": "MIR",
+            "placar_mandante": "",
+            "visitante": "FLU",
+            "placar_visitante": "",
+            "data_hora": "Data não definida"
+        }
+    ],
+    "12ª RODADA": [
+        {
+            "partida": "Bragantino x Bahia",
+            "mandante": "RBB",
+            "placar_mandante": "0",
+            "visitante": "BAH",
+            "placar_visitante": "3",
+            "data_hora": "2025-06-12T19:00"
+        },
+        {
+            "partida": "Vitória x Cruzeiro",
+            "mandante": "VIT",
+            "placar_mandante": "0",
+            "visitante": "CRU",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-12T19:00"
+        },
+        {
+            "partida": "Fortaleza x Santos",
+            "mandante": "FOR",
+            "placar_mandante": "2",
+            "visitante": "SAN",
+            "placar_visitante": "3",
+            "data_hora": "2025-06-12T19:30"
+        },
+        {
+            "partida": "Grêmio x Corinthians",
+            "mandante": "GRE",
+            "placar_mandante": "1",
+            "visitante": "COR",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-12T20:00"
+        },
+        {
+            "partida": "São Paulo x Vasco",
+            "mandante": "SAO",
+            "placar_mandante": "1",
+            "visitante": "VAS",
+            "placar_visitante": "3",
+            "data_hora": "2025-06-12T21:30"
+        },
+        {
+            "partida": "Atlético-MG x Internacional",
+            "mandante": "CAM",
+            "placar_mandante": "2",
+            "visitante": "INT",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-12T21:30"
+        },
+        {
+            "partida": "Fluminense x Ceará",
+            "mandante": "FLU",
+            "placar_mandante": "",
+            "visitante": "CEA",
+            "placar_visitante": "",
+            "data_hora": "Data não definida"
+        },
+        {
+            "partida": "Botafogo x Mirassol",
+            "mandante": "BOT",
+            "placar_mandante": "",
+            "visitante": "MIR",
+            "placar_visitante": "",
+            "data_hora": "Data não definida"
+        },
+        {
+            "partida": "Palmeiras x Juventude",
+            "mandante": "PAL",
+            "placar_mandante": "",
+            "visitante": "JUV",
+            "placar_visitante": "",
+            "data_hora": "Data não definida"
+        },
+        {
+            "partida": "Sport x Flamengo",
+            "mandante": "SPT",
+            "placar_mandante": "",
+            "visitante": "FLA",
+            "placar_visitante": "",
+            "data_hora": "Data não definida"
+        }
+    ],
+    "11ª RODADA": [
+        {
+            "partida": "Bahia x São Paulo",
+            "mandante": "BAH",
+            "placar_mandante": "2",
+            "visitante": "SAO",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-31T18:30"
+        },
+        {
+            "partida": "Vasco x Bragantino",
+            "mandante": "VAS",
+            "placar_mandante": "0",
+            "visitante": "RBB",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-31T21:00"
+        },
+        {
+            "partida": "Mirassol x Sport",
+            "mandante": "MIR",
+            "placar_mandante": "1",
+            "visitante": "SPT",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-01T11:00"
+        },
+        {
+            "partida": "Santos x Botafogo",
+            "mandante": "SAN",
+            "placar_mandante": "0",
+            "visitante": "BOT",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-01T16:00"
+        },
+        {
+            "partida": "Juventude x Grêmio",
+            "mandante": "JUV",
+            "placar_mandante": "0",
+            "visitante": "GRE",
+            "placar_visitante": "2",
+            "data_hora": "2025-06-01T16:00"
+        },
+        {
+            "partida": "Flamengo x Fortaleza",
+            "mandante": "FLA",
+            "placar_mandante": "5",
+            "visitante": "FOR",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-01T18:30"
+        },
+        {
+            "partida": "Corinthians x Vitória",
+            "mandante": "COR",
+            "placar_mandante": "0",
+            "visitante": "VIT",
+            "placar_visitante": "0",
+            "data_hora": "2025-06-01T18:30"
+        },
+        {
+            "partida": "Ceará x Atlético-MG",
+            "mandante": "CEA",
+            "placar_mandante": "0",
+            "visitante": "CAM",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-01T18:30"
+        },
+        {
+            "partida": "Cruzeiro x Palmeiras",
+            "mandante": "CRU",
+            "placar_mandante": "2",
+            "visitante": "PAL",
+            "placar_visitante": "1",
+            "data_hora": "2025-06-01T19:30"
+        },
+        {
+            "partida": "Internacional x Fluminense",
+            "mandante": "INT",
+            "placar_mandante": "0",
+            "visitante": "FLU",
+            "placar_visitante": "2",
+            "data_hora": "2025-06-01T20:30"
+        }
+    ],
+    "10ª RODADA": [
+        {
+            "partida": "Fluminense x Vasco",
+            "mandante": "FLU",
+            "placar_mandante": "2",
+            "visitante": "VAS",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-24T18:30"
+        },
+        {
+            "partida": "São Paulo x Mirassol",
+            "mandante": "SAO",
+            "placar_mandante": "0",
+            "visitante": "MIR",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-24T18:30"
+        },
+        {
+            "partida": "Atlético-MG x Corinthians",
+            "mandante": "CAM",
+            "placar_mandante": "0",
+            "visitante": "COR",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-24T21:00"
+        },
+        {
+            "partida": "Grêmio x Bahia",
+            "mandante": "GRE",
+            "placar_mandante": "1",
+            "visitante": "BAH",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-25T11:00"
+        },
+        {
+            "partida": "Palmeiras x Flamengo",
+            "mandante": "PAL",
+            "placar_mandante": "0",
+            "visitante": "FLA",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-25T16:00"
+        },
+        {
+            "partida": "Sport x Internacional",
+            "mandante": "SPT",
+            "placar_mandante": "1",
+            "visitante": "INT",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-25T16:00"
+        },
+        {
+            "partida": "Vitória x Santos",
+            "mandante": "VIT",
+            "placar_mandante": "0",
+            "visitante": "SAN",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-25T18:30"
+        },
+        {
+            "partida": "Fortaleza x Cruzeiro",
+            "mandante": "FOR",
+            "placar_mandante": "0",
+            "visitante": "CRU",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-25T20:30"
+        },
+        {
+            "partida": "Bragantino x Juventude",
+            "mandante": "RBB",
+            "placar_mandante": "1",
+            "visitante": "JUV",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-26T20:00"
+        },
+        {
+            "partida": "Botafogo x Ceará",
+            "mandante": "BOT",
+            "placar_mandante": "3",
+            "visitante": "CEA",
+            "placar_visitante": "2",
+            "data_hora": "2025-06-04T20:00"
+        }
+    ],
+    "9ª RODADA": [
+        {
+            "partida": "Ceará x Sport",
+            "mandante": "CEA",
+            "placar_mandante": "2",
+            "visitante": "SPT",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-17T16:00"
+        },
+        {
+            "partida": "Vasco x Fortaleza",
+            "mandante": "VAS",
+            "placar_mandante": "3",
+            "visitante": "FOR",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-17T18:30"
+        },
+        {
+            "partida": "São Paulo x Grêmio",
+            "mandante": "SAO",
+            "placar_mandante": "2",
+            "visitante": "GRE",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-17T21:00"
+        },
+        {
+            "partida": "Corinthians x Santos",
+            "mandante": "COR",
+            "placar_mandante": "1",
+            "visitante": "SAN",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-18T16:00"
+        },
+        {
+            "partida": "Bahia x Vitória",
+            "mandante": "BAH",
+            "placar_mandante": "2",
+            "visitante": "VIT",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-18T16:00"
+        },
+        {
+            "partida": "Juventude x Fluminense",
+            "mandante": "JUV",
+            "placar_mandante": "1",
+            "visitante": "FLU",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-18T16:00"
+        },
+        {
+            "partida": "Flamengo x Botafogo",
+            "mandante": "FLA",
+            "placar_mandante": "0",
+            "visitante": "BOT",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-18T18:30"
+        },
+        {
+            "partida": "Bragantino x Palmeiras",
+            "mandante": "RBB",
+            "placar_mandante": "1",
+            "visitante": "PAL",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-18T18:30"
+        },
+        {
+            "partida": "Cruzeiro x Atlético-MG",
+            "mandante": "CRU",
+            "placar_mandante": "0",
+            "visitante": "CAM",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-18T20:30"
+        },
+        {
+            "partida": "Internacional x Mirassol",
+            "mandante": "INT",
+            "placar_mandante": "1",
+            "visitante": "MIR",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-18T20:30"
+        }
+    ],
+    "8ª RODADA": [
+        {
+            "partida": "Fortaleza x Juventude",
+            "mandante": "FOR",
+            "placar_mandante": "5",
+            "visitante": "JUV",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-10T16:00"
+        },
+        {
+            "partida": "Mirassol x Corinthians",
+            "mandante": "MIR",
+            "placar_mandante": "2",
+            "visitante": "COR",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-10T18:30"
+        },
+        {
+            "partida": "Grêmio x Bragantino",
+            "mandante": "GRE",
+            "placar_mandante": "1",
+            "visitante": "RBB",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-10T18:30"
+        },
+        {
+            "partida": "Vitória x Vasco",
+            "mandante": "VIT",
+            "placar_mandante": "2",
+            "visitante": "VAS",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-10T18:30"
+        },
+        {
+            "partida": "Flamengo x Bahia",
+            "mandante": "FLA",
+            "placar_mandante": "1",
+            "visitante": "BAH",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-10T21:00"
+        },
+        {
+            "partida": "Sport x Cruzeiro",
+            "mandante": "SPT",
+            "placar_mandante": "0",
+            "visitante": "CRU",
+            "placar_visitante": "4",
+            "data_hora": "2025-05-11T16:00"
+        },
+        {
+            "partida": "Palmeiras x São Paulo",
+            "mandante": "PAL",
+            "placar_mandante": "1",
+            "visitante": "SAO",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-11T17:30"
+        },
+        {
+            "partida": "Atlético-MG x Fluminense",
+            "mandante": "CAM",
+            "placar_mandante": "3",
+            "visitante": "FLU",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-11T17:30"
+        },
+        {
+            "partida": "Botafogo x Internacional",
+            "mandante": "BOT",
+            "placar_mandante": "4",
+            "visitante": "INT",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-11T20:00"
+        },
+        {
+            "partida": "Santos x Ceará",
+            "mandante": "SAN",
+            "placar_mandante": "0",
+            "visitante": "CEA",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-12T20:00"
+        }
+    ],
+    "7ª RODADA": [
+        {
+            "partida": "São Paulo x Fortaleza",
+            "mandante": "SAO",
+            "placar_mandante": "0",
+            "visitante": "FOR",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-02T21:30"
+        },
+        {
+            "partida": "Fluminense x Sport",
+            "mandante": "FLU",
+            "placar_mandante": "2",
+            "visitante": "SPT",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-03T18:30"
+        },
+        {
+            "partida": "Corinthians x Internacional",
+            "mandante": "COR",
+            "placar_mandante": "4",
+            "visitante": "INT",
+            "placar_visitante": "2",
+            "data_hora": "2025-05-03T18:30"
+        },
+        {
+            "partida": "Ceará x Vitória",
+            "mandante": "CEA",
+            "placar_mandante": "1",
+            "visitante": "VIT",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-03T18:30"
+        },
+        {
+            "partida": "Bahia x Botafogo",
+            "mandante": "BAH",
+            "placar_mandante": "1",
+            "visitante": "BOT",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-03T21:00"
+        },
+        {
+            "partida": "Vasco x Palmeiras",
+            "mandante": "VAS",
+            "placar_mandante": "0",
+            "visitante": "PAL",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-04T16:00"
+        },
+        {
+            "partida": "Grêmio x Santos",
+            "mandante": "GRE",
+            "placar_mandante": "1",
+            "visitante": "SAN",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-04T16:00"
+        },
+        {
+            "partida": "Cruzeiro x Flamengo",
+            "mandante": "CRU",
+            "placar_mandante": "2",
+            "visitante": "FLA",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-04T18:30"
+        },
+        {
+            "partida": "Bragantino x Mirassol",
+            "mandante": "RBB",
+            "placar_mandante": "1",
+            "visitante": "MIR",
+            "placar_visitante": "0",
+            "data_hora": "2025-05-05T19:00"
+        },
+        {
+            "partida": "Juventude x Atlético-MG",
+            "mandante": "JUV",
+            "placar_mandante": "0",
+            "visitante": "CAM",
+            "placar_visitante": "1",
+            "data_hora": "2025-05-05T20:00"
+        }
+    ],
+    "6ª RODADA": [
+        {
+            "partida": "Internacional x Juventude",
+            "mandante": "INT",
+            "placar_mandante": "3",
+            "visitante": "JUV",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-26T16:00"
+        },
+        {
+            "partida": "Mirassol x Atlético-MG",
+            "mandante": "MIR",
+            "placar_mandante": "2",
+            "visitante": "CAM",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-26T18:30"
+        },
+        {
+            "partida": "Ceará x São Paulo",
+            "mandante": "CEA",
+            "placar_mandante": "1",
+            "visitante": "SAO",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-26T18:30"
+        },
+        {
+            "partida": "Sport x Fortaleza",
+            "mandante": "SPT",
+            "placar_mandante": "0",
+            "visitante": "FOR",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-26T20:00"
+        },
+        {
+            "partida": "Botafogo x Fluminense",
+            "mandante": "BOT",
+            "placar_mandante": "2",
+            "visitante": "FLU",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-26T21:00"
+        },
+        {
+            "partida": "Flamengo x Corinthians",
+            "mandante": "FLA",
+            "placar_mandante": "4",
+            "visitante": "COR",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-27T16:00"
+        },
+        {
+            "partida": "Palmeiras x Bahia",
+            "mandante": "PAL",
+            "placar_mandante": "0",
+            "visitante": "BAH",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-27T18:30"
+        },
+        {
+            "partida": "Cruzeiro x Vasco",
+            "mandante": "CRU",
+            "placar_mandante": "1",
+            "visitante": "VAS",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-27T18:30"
+        },
+        {
+            "partida": "Vitória x Grêmio",
+            "mandante": "VIT",
+            "placar_mandante": "1",
+            "visitante": "GRE",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-27T18:30"
+        },
+        {
+            "partida": "Santos x Bragantino",
+            "mandante": "SAN",
+            "placar_mandante": "1",
+            "visitante": "RBB",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-27T20:30"
+        }
+    ],
+    "5ª RODADA": [
+        {
+            "partida": "Corinthians x Sport",
+            "mandante": "COR",
+            "placar_mandante": "2",
+            "visitante": "SPT",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-19T16:00"
+        },
+        {
+            "partida": "Vasco x Flamengo",
+            "mandante": "VAS",
+            "placar_mandante": "0",
+            "visitante": "FLA",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-19T18:30"
+        },
+        {
+            "partida": "Grêmio x Internacional",
+            "mandante": "GRE",
+            "placar_mandante": "1",
+            "visitante": "INT",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-19T21:00"
+        },
+        {
+            "partida": "Juventude x Mirassol",
+            "mandante": "JUV",
+            "placar_mandante": "2",
+            "visitante": "MIR",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-20T11:00"
+        },
+        {
+            "partida": "São Paulo x Santos",
+            "mandante": "SAO",
+            "placar_mandante": "2",
+            "visitante": "SAN",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-20T16:00"
+        },
+        {
+            "partida": "Atlético-MG x Botafogo",
+            "mandante": "CAM",
+            "placar_mandante": "1",
+            "visitante": "BOT",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-20T16:00"
+        },
+        {
+            "partida": "Fluminense x Vitória",
+            "mandante": "FLU",
+            "placar_mandante": "1",
+            "visitante": "VIT",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-20T18:30"
+        },
+        {
+            "partida": "Fortaleza x Palmeiras",
+            "mandante": "FOR",
+            "placar_mandante": "1",
+            "visitante": "PAL",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-20T18:30"
+        },
+        {
+            "partida": "Bragantino x Cruzeiro",
+            "mandante": "RBB",
+            "placar_mandante": "1",
+            "visitante": "CRU",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-20T20:30"
+        },
+        {
+            "partida": "Bahia x Ceará",
+            "mandante": "BAH",
+            "placar_mandante": "1",
+            "visitante": "CEA",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-21T20:00"
+        }
+    ],
+    "4ª RODADA": [
+        {
+            "partida": "Ceará x Vasco",
+            "mandante": "CEA",
+            "placar_mandante": "2",
+            "visitante": "VAS",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-15T21:30"
+        },
+        {
+            "partida": "Botafogo x São Paulo",
+            "mandante": "BOT",
+            "placar_mandante": "2",
+            "visitante": "SAO",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-16T18:30"
+        },
+        {
+            "partida": "Mirassol x Grêmio",
+            "mandante": "MIR",
+            "placar_mandante": "4",
+            "visitante": "GRE",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-16T19:00"
+        },
+        {
+            "partida": "Sport x Bragantino",
+            "mandante": "SPT",
+            "placar_mandante": "0",
+            "visitante": "RBB",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-16T19:00"
+        },
+        {
+            "partida": "Corinthians x Fluminense",
+            "mandante": "COR",
+            "placar_mandante": "0",
+            "visitante": "FLU",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-16T19:30"
+        },
+        {
+            "partida": "Internacional x Palmeiras",
+            "mandante": "INT",
+            "placar_mandante": "0",
+            "visitante": "PAL",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-16T19:30"
+        },
+        {
+            "partida": "Flamengo x Juventude",
+            "mandante": "FLA",
+            "placar_mandante": "6",
+            "visitante": "JUV",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-16T21:30"
+        },
+        {
+            "partida": "Santos x Atlético-MG",
+            "mandante": "SAN",
+            "placar_mandante": "2",
+            "visitante": "CAM",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-16T21:30"
+        },
+        {
+            "partida": "Vitória x Fortaleza",
+            "mandante": "VIT",
+            "placar_mandante": "2",
+            "visitante": "FOR",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-16T21:30"
+        },
+        {
+            "partida": "Cruzeiro x Bahia",
+            "mandante": "CRU",
+            "placar_mandante": "3",
+            "visitante": "BAH",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-17T21:30"
+        }
+    ],
+    "3ª RODADA": [
+        {
+            "partida": "Bragantino x Botafogo",
+            "mandante": "RBB",
+            "placar_mandante": "1",
+            "visitante": "BOT",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-12T16:00"
+        },
+        {
+            "partida": "Juventude x Ceará",
+            "mandante": "JUV",
+            "placar_mandante": "2",
+            "visitante": "CEA",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-12T16:00"
+        },
+        {
+            "partida": "Palmeiras x Corinthians",
+            "mandante": "PAL",
+            "placar_mandante": "2",
+            "visitante": "COR",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-12T18:30"
+        },
+        {
+            "partida": "Vasco x Sport",
+            "mandante": "VAS",
+            "placar_mandante": "3",
+            "visitante": "SPT",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-12T21:00"
+        },
+        {
+            "partida": "Bahia x Mirassol",
+            "mandante": "BAH",
+            "placar_mandante": "1",
+            "visitante": "MIR",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-13T16:00"
+        },
+        {
+            "partida": "São Paulo x Cruzeiro",
+            "mandante": "SAO",
+            "placar_mandante": "1",
+            "visitante": "CRU",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-13T17:30"
+        },
+        {
+            "partida": "Grêmio x Flamengo",
+            "mandante": "GRE",
+            "placar_mandante": "0",
+            "visitante": "FLA",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-13T17:30"
+        },
+        {
+            "partida": "Fluminense x Santos",
+            "mandante": "FLU",
+            "placar_mandante": "1",
+            "visitante": "SAN",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-13T19:30"
+        },
+        {
+            "partida": "Fortaleza x Internacional",
+            "mandante": "FOR",
+            "placar_mandante": "0",
+            "visitante": "INT",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-13T20:00"
+        },
+        {
+            "partida": "Atlético-MG x Vitória",
+            "mandante": "CAM",
+            "placar_mandante": "2",
+            "visitante": "VIT",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-13T20:30"
+        }
+    ],
+    "2ª RODADA": [
+        {
+            "partida": "Corinthians x Vasco",
+            "mandante": "COR",
+            "placar_mandante": "3",
+            "visitante": "VAS",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-05T18:30"
+        },
+        {
+            "partida": "Ceará x Grêmio",
+            "mandante": "CEA",
+            "placar_mandante": "2",
+            "visitante": "GRE",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-05T18:30"
+        },
+        {
+            "partida": "Botafogo x Juventude",
+            "mandante": "BOT",
+            "placar_mandante": "2",
+            "visitante": "JUV",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-05T21:00"
+        },
+        {
+            "partida": "Fluminense x Bragantino",
+            "mandante": "FLU",
+            "placar_mandante": "2",
+            "visitante": "RBB",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-06T16:00"
+        },
+        {
+            "partida": "Atlético-MG x São Paulo",
+            "mandante": "CAM",
+            "placar_mandante": "0",
+            "visitante": "SAO",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-06T16:00"
+        },
+        {
+            "partida": "Mirassol x Fortaleza",
+            "mandante": "MIR",
+            "placar_mandante": "1",
+            "visitante": "FOR",
+            "placar_visitante": "1",
+            "data_hora": "2025-04-06T18:30"
+        },
+        {
+            "partida": "Internacional x Cruzeiro",
+            "mandante": "INT",
+            "placar_mandante": "3",
+            "visitante": "CRU",
+            "placar_visitante": "0",
+            "data_hora": "2025-04-06T18:30"
+        },
+        {
+            "partida": "Vitória x Flamengo",
+            "mandante": "VIT",
+            "placar_mandante": "1",
+            "visitante": "FLA",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-06T18:30"
+        },
+        {
+            "partida": "Sport x Palmeiras",
+            "mandante": "SPT",
+            "placar_mandante": "1",
+            "visitante": "PAL",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-06T18:30"
+        },
+        {
+            "partida": "Santos x Bahia",
+            "mandante": "SAN",
+            "placar_mandante": "2",
+            "visitante": "BAH",
+            "placar_visitante": "2",
+            "data_hora": "2025-04-06T20:30"
+        }
+    ],
+    "1ª RODADA": [
+        {
+            "partida": "São Paulo x Sport",
+            "mandante": "SAO",
+            "placar_mandante": "0",
+            "visitante": "SPT",
+            "placar_visitante": "0",
+            "data_hora": "2025-03-29T18:30"
+        },
+        {
+            "partida": "Cruzeiro x Mirassol",
+            "mandante": "CRU",
+            "placar_mandante": "2",
+            "visitante": "MIR",
+            "placar_visitante": "1",
+            "data_hora": "2025-03-29T18:30"
+        },
+        {
+            "partida": "Grêmio x Atlético-MG",
+            "mandante": "GRE",
+            "placar_mandante": "2",
+            "visitante": "CAM",
+            "placar_visitante": "1",
+            "data_hora": "2025-03-29T18:30"
+        },
+        {
+            "partida": "Fortaleza x Fluminense",
+            "mandante": "FOR",
+            "placar_mandante": "2",
+            "visitante": "FLU",
+            "placar_visitante": "0",
+            "data_hora": "2025-03-29T18:30"
+        },
+        {
+            "partida": "Juventude x Vitória",
+            "mandante": "JUV",
+            "placar_mandante": "2",
+            "visitante": "VIT",
+            "placar_visitante": "0",
+            "data_hora": "2025-03-29T18:30"
+        },
+        {
+            "partida": "Flamengo x Internacional",
+            "mandante": "FLA",
+            "placar_mandante": "1",
+            "visitante": "INT",
+            "placar_visitante": "1",
+            "data_hora": "2025-03-29T21:00"
+        },
+        {
+            "partida": "Palmeiras x Botafogo",
+            "mandante": "PAL",
+            "placar_mandante": "0",
+            "visitante": "BOT",
+            "placar_visitante": "0",
+            "data_hora": "2025-03-30T16:00"
+        },
+        {
+            "partida": "Vasco x Santos",
+            "mandante": "VAS",
+            "placar_mandante": "2",
+            "visitante": "SAN",
+            "placar_visitante": "1",
+            "data_hora": "2025-03-30T18:30"
+        },
+        {
+            "partida": "Bahia x Corinthians",
+            "mandante": "BAH",
+            "placar_mandante": "1",
+            "visitante": "COR",
+            "placar_visitante": "1",
+            "data_hora": "2025-03-30T20:00"
+        },
+        {
+            "partida": "Bragantino x Ceará",
+            "mandante": "RBB",
+            "placar_mandante": "2",
+            "visitante": "CEA",
+            "placar_visitante": "2",
+            "data_hora": "2025-03-31T20:00"
+        }
+    ]
+}
